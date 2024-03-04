@@ -1,0 +1,4 @@
+.env
+ironhack_project1_env/
+.ipynb_checkpoints/
+.DS_Store
