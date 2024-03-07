@@ -147,7 +147,10 @@ def cleaning_salary(salary):
 
 def cleaning_locations(location):
     location=str(location).lower().strip()
-    #location=location.split(',')[0].replace(' ','_')
+    
+    #location=location.split(',')[0] -> Initially planned to remove the abbreviation
+    #however, the abriviation in the values refer to the different geographical location and can not be removed.
+    #for example Columbia, MD (Maryland), Columbia, MO (Missouri), and Columbia, SC (South Carolina.
     return location 
 
 def cleaning_headquarters(location):
