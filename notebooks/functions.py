@@ -24,6 +24,14 @@ import seaborn as sns
 
 
 def general_cleaning(df: pd.DataFrame):
+    '''
+    Performs general cleaning on a DataFrame.
+    Parameters:
+    - df (pd.DataFrame): Input DataFrame to be cleaned.
+    Returns:
+    - pd.DataFrame: Cleaned DataFrame with lowercased column names, spaces replaced with underscores,
+    duplicates removed, and index reset.
+    '''
     df_2=df.copy()
     df_2.columns= df_2.columns.str.lower().str.replace(' ','_').str.strip()
     df_2.drop_duplicates(inplace=True)
@@ -40,6 +48,11 @@ def cleaning_job_title(job_title):
     cleaning the job titles colmun. column name as paramter , uses regex 
     1- casting all the value to a string, cleaning the names
     2-finding the repeated pattern and replacing the values with the dic_values
+    Parameters:
+    - job_title (str): Job title to be cleaned.
+    Returns:
+    - str: Cleaned job title.
+    
     '''
     
     #1
@@ -77,6 +90,9 @@ def cleaning_industry(industry):
     cleaning the industry colmun. column name as paramter , uses regex 
     1- casting all the value to a string, cleaning the names
     2-finding the repeated pattern and replacing the values with the dic_values
+    - industry (str): Industry name to be cleaned.
+    Returns:
+    - str: Cleaned industry name.
     '''
     
     #1
@@ -117,6 +133,10 @@ def cleaning_salary(salary):
     cleaning the salary colmun. column name as paramter , uses regex 
     1- casting all the value to a string, cleaning the names
     2-finding the repeated pattern and replacing the values with the dic_values
+    Parameters:
+    - salary (str or numeric): Salary value to be cleaned.
+    Returns:
+    - str: Cleaned salary value.    
 
     '''
     
@@ -146,16 +166,37 @@ def cleaning_salary(salary):
 
 
 def cleaning_locations(location):
+
+    '''
+    Clean location names.
+    Parameters:
+    - location (str): Location name to be cleaned.
+    Returns:
+    - str: Cleaned location name.
+    explanation:
+    Initially planned to remove the abbreviation
+    however, the abriviation in the values refer to the different geographical location and can not be removed.
+    for example Columbia, MD (Maryland), Columbia, MO (Missouri), and Columbia, SC (South Carolina.
+    '''
     location=str(location).lower().strip()
     
-    #location=location.split(',')[0] -> Initially planned to remove the abbreviation
-    #however, the abriviation in the values refer to the different geographical location and can not be removed.
-    #for example Columbia, MD (Maryland), Columbia, MO (Missouri), and Columbia, SC (South Carolina.
+    #Initiall plann: location=location.split(',')[0]
     return location 
 
 def cleaning_headquarters(location):
+
+    
+    '''
+    Clean headquarters location names.
+    Parameters:
+    - location (str): Headquarters location name to be cleaned.
+
+    Returns:
+    - str: Cleaned headquarters location name.
+    '''
+    
     location=str(location).lower().strip()
-    #location=location.split(',')[0].replace(' ','_')
+    #Initially plann: location=location.split(',')[0].replace(' ','_')
     return location 
 
 
@@ -163,6 +204,13 @@ def cleaning_headquarters(location):
 
 
 def cleaning_companies(company):
+    '''
+    Clean company names.
+    Parameters:
+    - company (str): Company name to be cleaned.
+    Returns:
+    - str: Cleaned company name.
+    '''
     company=str(company).lower().strip().split('\n')[0]
     return company 
 

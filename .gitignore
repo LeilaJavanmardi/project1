@@ -1,4 +1,6 @@
 .env
 ironhack_project1_env/
 .ipynb_checkpoints/
+other_files_no_github/
 .DS_Store
+requirements*.in

@@ -1,0 +1,673 @@
+index,job_title,salary_$_K,location,size,founded,headquarters,company_name,sector,revenue,rating,type_of_ownership,industry
+0,data_scientist,120-200,"new york, ny",1001 to 5000 employees,1993.0,"new york, ny",healthfirst,insurance,unknown_non_applicable,3.1,nonprofit_organization,insurance_agencies
+1,data_scientist,120-200,"chantilly, va",5001 to 10000 employees,1968.0,"herndon, va",mantech,business services,1 to 2B,4.2,company_public,others
+2,data_scientist,120-200,"boston, ma",1001 to 5000 employees,1981.0,"boston, ma",analysis group,business services,100 to 500M,3.8,private_practice_firm,consulting
+3,data_scientist,120-200,"newton, ma",501 to 1000 employees,2000.0,"bad ragaz, switzerland",inficon,manufacturing,100 to 500M,3.5,company_public,manufacturing
+4,data_scientist,120-200,"new york, ny",51 to 200 employees,1998.0,"new york, ny",affinity solutions,business services,unknown_non_applicable,2.9,company_private,advertising_marketing
+5,data_scientist,120-200,"santa barbara, ca",51 to 200 employees,2010.0,"santa barbara, ca",hg insights,information technology,unknown_non_applicable,4.2,company_private,computer_hardware_software
+6,data_scientist,120-200,"cambridge, ma",10000+ employees,1996.0,"basel, switzerland",novartis,biotech_&_pharmaceuticals,10B+,3.9,company_public,others
+7,data_scientist,120-200,"bedford, ma",1001 to 5000 employees,1990.0,"bedford, ma",irobot,retail,1 to 2B,3.5,company_public,others
+8,data_scientist,120-200,"san diego, ca",5001 to 10000 employees,1983.0,"mountain view, ca",intuit - data,information technology,2 to 5B,4.4,company_public,computer_hardware_software
+9,data_scientist,120-200,"chicago, il",51 to 200 employees,2014.0,"chicago, il",xsell technologies,information technology,unknown_non_applicable,3.6,company_private,enterprise_software_network_solutions 
+10,data_scientist,120-200,"herndon, va",501 to 1000 employees,2012.0,"mc lean, va",novetta,information technology,100 to 500M,4.5,company_private,enterprise_software_network_solutions 
+11,data_scientist,120-200,"saint louis, mo",51 to 200 employees,2016.0,"saint louis, mo",1904labs,information technology,unknown_non_applicable,4.7,company_private,others
+12,data_scientist,120-200,"richland, wa",1001 to 5000 employees,1965.0,"richland, wa",pnnl,"oil, gas, energy_&_utilities",500M to 1B,3.7,government,energy_and_utilities
+13,others,120-200,"northbrook, il",201 to 500 employees,1973.0,"northbrook, il",old world industries,manufacturing,1 to 2B,3.1,company_private,manufacturing
+14,data_scientist,120-200,"washington, dc",1001 to 5000 employees,1986.0,"princeton, nj",mathematica policy research,business services,100 to 500M,3.4,company_private,consulting
+15,data_scientist,120-200,"washington, dc",1 to 50 employees,1997.0,"mays landing, nj",guzman & griffin technologies (ggti),government,unknown_non_applicable,4.4,company_private,government_public_sector
+16,data_scientist,120-200,remote,51 to 200 employees,2015.0,"washington, dc",upside business travel,information technology,unknown_non_applicable,4.1,company_private,internet_telephone_providers
+17,data_scientist,120-200,"memphis, tn",1001 to 5000 employees,1945.0,"memphis, tn",buckman,manufacturing,500M to 1B,3.5,company_private,manufacturing
+18,data_analyst,120-200,"plano, tx",5001 to 10000 employees,1988.0,"tempe, az","insight enterprises, inc.",information technology,5 to 10B,4.2,company_public,enterprise_software_network_solutions 
+19,others,120-200,"west grove, pa",5001 to 10000 employees,2017.0,"reading, pa",tower health,health care,unknown_non_applicable,3.5,nonprofit_organization,healthcare_and_pharmaceuticals
+20,data_scientist,120-200,"new york, ny",51 to 200 employees,2015.0,"san francisco, ca",triplebyte,information technology,unknown_non_applicable,3.2,company_private,computer_hardware_software
+21,data_scientist,120-200,"new york, ny",51 to 200 employees,2011.0,"new york, ny",pulsepoint,information technology,100 to 500M,4.3,company_private,internet_telephone_providers
+22,others,120-200,"phoenix, az",1001 to 5000 employees,1967.0,"menlo park, ca",exponent,business services,100 to 500M,3.5,company_public,consulting
+23,others,120-200,"appleton, wi",5001 to 10000 employees,1860.0,"new york, ny",guardian life,insurance,5 to 10B,3.5,company_private,insurance_agencies
+24,data_scientist,120-200,"chicago, il",51 to 200 employees,1992.0,"chicago, il",spectrum communications and consulting,business services,10 to 25M,3.4,company_private,advertising_marketing
+25,data_scientist,120-200,"atlanta, ga",51 to 200 employees,2003.0,"atlanta, ga",oversight systems,information technology,25 to 50M,4.7,company_private,computer_hardware_software
+26,data_scientist,120-200,"orlando, fl",51 to 200 employees,1996.0,"orlando, fl",lsq,finance,100 to 500M,4.2,company_private,finance_and_banking
+27,data_scientist,120-200,"lexington, ma",1001 to 5000 employees,1951.0,"lexington, ma",mit lincoln laboratory,aerospace_&_defense,unknown_non_applicable,3.8,nonprofit_organization,others
+28,data_scientist,120-200,"mclean, va",51 to 200 employees,2005.0,"falls church, va",kingfisher systems,government,25 to 50M,4.5,company_private,government_public_sector
+29,data_scientist,120-200,"san francisco, ca",51 to 200 employees,2015.0,"san francisco, ca",formation,information technology,unknown_non_applicable,2.8,company_private,enterprise_software_network_solutions 
+30,data_scientist,75-145,"boston, ma",1001 to 5000 employees,1981.0,"boston, ma",analysis group,business services,100 to 500M,3.8,private_practice_firm,consulting
+31,data_scientist,75-145,"cambridge, ma",10000+ employees,1996.0,"basel, switzerland",novartis,biotech_&_pharmaceuticals,10B+,3.9,company_public,others
+32,data_scientist,75-145,"boston, ma",1 to 50 employees,2019.0,"boston, ma",cohere health,information technology,unknown_non_applicable,5.0,company_private,others
+33,data_scientist,75-145,"sheboygan, wi",1001 to 5000 employees,1925.0,"sheboygan, wi",acuity insurance,insurance,1 to 2B,4.8,company_private,insurance_agencies
+34,data_engineer,75-145,united states,201 to 500 employees,2008.0,"seattle, wa",chef,information technology,50 to 100M,3.6,company_private,enterprise_software_network_solutions 
+35,data_scientist,75-145,"bothell, wa",1001 to 5000 employees,1999.0,"bellevue, wa",puget sound energy,"oil, gas, energy_&_utilities",2 to 5B,3.3,company_private,energy_and_utilities
+36,others,75-145,"lincoln, ne",1001 to 5000 employees,1978.0,"lincoln, ne",sandhills global,information technology,50 to 100M,2.7,company_private,enterprise_software_network_solutions 
+37,data_scientist,75-145,"overland park, ks",501 to 1000 employees,2000.0,"new york, ny",a place for mom,health care,unknown_non_applicable,2.7,company_private,healthcare_and_pharmaceuticals
+38,data_scientist,75-145,"chantilly, va",1 to 50 employees,2000.0,"chantilly, va",great-circle technologies,information technology,1 to 5M,2.2,company_private,enterprise_software_network_solutions 
+39,data_scientist,75-145,"santa monica, ca",501 to 1000 employees,1966.0,"santa monica, ca",edmunds.com,information technology,100 to 500M,3.4,company_private,internet_telephone_providers
+40,data_analyst,75-145,"boston, ma",501 to 1000 employees,1973.0,"boston, ma","cambridge associates, llc",finance,100 to 500M,3.1,company_private,finance_and_banking
+41,machine_learning_engineer,75-145,"portsmouth, nh",10000+ employees,1912.0,"boston, ma",liberty mutual insurance,insurance,10B+,3.4,company_private,insurance_agencies
+42,data_analyst,75-145,"ewing, nj",1001 to 5000 employees,1958.0,"ewing, nj",cenlar,unknown,100 to 500M,2.6,company_private,others
+43,others,75-145,"south san francisco, ca",51 to 200 employees,2019.0,"south san francisco, ca",arsenal biosciences,biotech_&_pharmaceuticals,unknown_non_applicable,5.0,company_private,others
+44,data_scientist,75-145,"palo alto, ca",51 to 200 employees,2013.0,"palo alto, ca",eversight,information technology,10 to 25M,4.2,company_private,enterprise_software_network_solutions 
+45,machine_learning_engineer,75-145,"cambridge, ma",10000+ employees,1849.0,"new york, ny",pfizer,biotech_&_pharmaceuticals,10B+,4.1,company_public,others
+46,senior_data_scientist,75-145,"boston, ma",201 to 500 employees,2012.0,"boston, ma",klaviyo,information technology,unknown_non_applicable,4.8,company_private,computer_hardware_software
+47,data_scientist,75-145,"bellevue, wa",501 to 1000 employees,2000.0,"bellevue, wa",intellectual ventures,finance,unknown_non_applicable,3.3,company_private,finance_and_banking
+48,data_scientist,75-145,"san francisco, ca",1001 to 5000 employees,2016.0,"singapore, singapore",govtech,government,unknown_non_applicable,3.7,government,government_public_sector
+49,data_scientist,75-145,"cambridge, ma",201 to 500 employees,1999.0,"cambridge, ma",quick base,information technology,unknown_non_applicable,4.3,company_private,enterprise_software_network_solutions 
+50,data_analyst,75-145,"san francisco, ca",1 to 50 employees,2014.0,"san francisco, ca",giving assistant,business services,10 to 25M,4.8,company_private,advertising_marketing
+51,data_scientist,75-145,"cambridge, ma",10000+ employees,1781.0,"osaka, japan",takeda,biotech_&_pharmaceuticals,10B+,3.7,company_public,others
+52,data_scientist,75-145,"san francisco, ca",501 to 1000 employees,2012.0,"santa clara, ca",netskope,information technology,unknown_non_applicable,4.0,company_private,enterprise_software_network_solutions 
+53,data_engineer,75-145,remote,51 to 200 employees,2003.0,"vienna, va",it concepts,information technology,10 to 25M,4.8,company_private,others
+54,data_analyst,75-145,"new orleans, la",51 to 200 employees,1999.0,"new orleans, la",iseatz,information technology,unknown_non_applicable,3.5,company_private,enterprise_software_network_solutions 
+55,data_analyst,75-145,"akron, oh",5001 to 10000 employees,1926.0,"akron, oh",summa health system,health care,100 to 500M,3.7,nonprofit_organization,healthcare_and_pharmaceuticals
+56,senior_data_scientist,75-145,"saint louis, mo",201 to 500 employees,2012.0,"saint louis, mo",benson hill,biotech_&_pharmaceuticals,1 to 5M,3.5,company_private,others
+57,data_scientist,75-145,"san francisco, ca",1001 to 5000 employees,2006.0,"san francisco, ca",twitter,information technology,2 to 5B,4.1,company_public,internet_telephone_providers
+58,data_scientist,75-145,"san francisco, ca",1001 to 5000 employees,2011.0,"san francisco, ca",postmates - corporate hq,transportation_&_logistics,unknown_non_applicable,3.2,company_private,others
+59,data_scientist,75-145,"saint louis, mo",201 to 500 employees,1994.0,"saint louis, mo",envision llc,business services,25 to 50M,4.5,company_private,staffing_outsourcing
+60,data_analyst,75-145,"fort wayne, in",10000+ employees,1863.0,"zurich, switzerland",swiss re,insurance,10B+,3.8,company_public,insurance_agencies
+61,machine_learning_engineer,75-145,"woburn, ma",201 to 500 employees,2010.0,"woburn, ma",systems & technology research,aerospace_&_defense,100 to 500M,4.5,company_private,others
+62,data_scientist,75-145,"bedford, ma",1001 to 5000 employees,1990.0,"bedford, ma",irobot,retail,1 to 2B,3.5,company_public,others
+63,data_scientist,75-145,"santa barbara, ca",51 to 200 employees,2010.0,"santa barbara, ca",hg insights,information technology,unknown_non_applicable,4.2,company_private,computer_hardware_software
+64,data_analyst,75-145,"carson, ca",201 to 500 employees,1986.0,"carson, ca",dermalogica,manufacturing,100 to 500M,3.8,subsidiary_or_business_segment,manufacturing
+65,data_engineer,75-145,"coral gables, fl",1001 to 5000 employees,1995.0,"coral gables, fl",bayview asset management,finance,100 to 500M,3.7,company_private,finance_and_banking
+66,data_scientist,75-145,"new york, ny",501 to 1000 employees,2012.0,"new york, ny",via transportation,information technology,unknown_non_applicable,3.7,company_private,internet_telephone_providers
+67,data_scientist,75-145,"santa clara, ca",1001 to 5000 employees,2006.0,"san ramon, ca",grid dynamics,information technology,50 to 100M,4.0,company_private,enterprise_software_network_solutions 
+68,machine_learning_engineer,75-145,"chicago, il",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+69,data_scientist,75-145,"brisbane, ca",1 to 50 employees,,"brisbane, ca",caredx,biotech_&_pharmaceuticals,unknown_non_applicable,2.5,company_private,others
+70,data_engineer,75-145,"winter park, fl",51 to 200 employees,2006.0,"winter park, fl",izea,business services,25 to 50M,4.2,company_public,advertising_marketing
+71,data_scientist,75-145,"redwood city, ca",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+72,data_scientist,75-145,"san francisco, ca",5001 to 10000 employees,1982.0,"san rafael, ca",autodesk,information technology,2 to 5B,4.0,company_public,computer_hardware_software
+73,data_analyst,75-145,"peoria, il",10000+ employees,1925.0,"deerfield, il",caterpillar,manufacturing,10B+,3.7,company_public,manufacturing
+74,others,75-145,"ipswich, ma",201 to 500 employees,1974.0,"ipswich, ma",new england biolabs,biotech_&_pharmaceuticals,unknown_non_applicable,4.9,company_private,others
+75,data_analyst,75-145,"carmel, in",1001 to 5000 employees,2001.0,"carmel, in",allied solutions,insurance,100 to 500M,3.4,subsidiary_or_business_segment,insurance_agencies
+76,data_engineer,75-145,"new york, ny",1001 to 5000 employees,1993.0,"new york, ny",healthfirst,insurance,unknown_non_applicable,3.1,nonprofit_organization,insurance_agencies
+77,data_scientist,75-145,"washington, dc",1001 to 5000 employees,2019.0,"chevy chase, md",the knot worldwide,information technology,unknown_non_applicable,3.5,company_private,internet_telephone_providers
+78,data_scientist,75-145,"new york, ny",201 to 500 employees,1985.0,"hartford, ct",ifg companies,insurance,unknown_non_applicable,2.9,company_private,insurance_agencies
+79,data_scientist,75-145,"emeryville, ca",201 to 500 employees,2003.0,"emeryville, ca",amyris,biotech_&_pharmaceuticals,100 to 500M,3.3,company_public,others
+80,data_scientist,75-145,"gaithersburg, md",10000+ employees,1913.0,"cambridge, united kingdom",astrazeneca,biotech_&_pharmaceuticals,10B+,4.0,company_public,others
+81,data_scientist,75-145,"washington, dc",51 to 200 employees,2001.0,"rockville, md",powertek,information technology,25 to 50M,3.6,company_private,others
+82,data_engineer,75-145,"saint louis, mo",51 to 200 employees,1996.0,"minneapolis, mn",object partners,business services,25 to 50M,4.7,company_private,consulting
+83,data_scientist,75-145,"longmont, co",1 to 50 employees,2016.0,"chicago, il",the mom project,business services,unknown_non_applicable,4.9,company_private,staffing_outsourcing
+84,data_scientist,75-145,"austin, tx",51 to 200 employees,1999.0,"austin, tx",lightspeed systems,information technology,25 to 50M,4.3,company_private,computer_hardware_software
+85,data_science_analytics_leadership,75-145,"san francisco, ca",1001 to 5000 employees,2010.0,"san francisco, ca",stripe,information technology,unknown_non_applicable,4.0,company_private,internet_telephone_providers
+86,data_analyst,75-145,"yakima, wa",501 to 1000 employees,1971.0,"yakima, wa",comprehensive healthcare,health care,unknown_non_applicable,2.6,nonprofit_organization,healthcare_and_pharmaceuticals
+87,data_scientist,75-145,"santa cruz, ca",51 to 200 employees,2003.0,"santa cruz, ca","fullpower technologies, inc.",information technology,10 to 25M,4.5,company_private,computer_hardware_software
+88,machine_learning_engineer,75-145,"boston, ma",201 to 500 employees,2012.0,"boston, ma",klaviyo,information technology,unknown_non_applicable,4.8,company_private,computer_hardware_software
+89,data_scientist,75-145,united states,10000+ employees,1911.0,"mc lean, va",mars,manufacturing,10B+,3.9,company_private,manufacturing
+90,data_scientist,75-145,"gaithersburg, md",10000+ employees,1913.0,"cambridge, united kingdom",astrazeneca,biotech_&_pharmaceuticals,10B+,4.0,company_public,others
+91,machine_learning_engineer,75-145,"springfield, va",51 to 200 employees,1999.0,"mc lean, va",nuwave solutions,information technology,5 to 10M,4.4,company_private,others
+92,senior_data_scientist,75-145,"alexandria, va",5001 to 10000 employees,1968.0,"herndon, va",mantech,business services,1 to 2B,4.2,company_public,others
+93,data_scientist,75-145,utah,201 to 500 employees,1997.0,"south jordan, ut",merrick bank,finance,unknown_non_applicable,3.6,company_private,finance_and_banking
+94,data_scientist,75-145,"washington, dc",1001 to 5000 employees,1986.0,"princeton, nj",mathematica policy research,business services,100 to 500M,3.4,company_private,consulting
+95,data_scientist,75-145,"san diego, ca",5001 to 10000 employees,1983.0,"mountain view, ca",intuit - data,information technology,2 to 5B,4.4,company_public,computer_hardware_software
+96,data_analyst,75-145,"reston, va",51 to 200 employees,2015.0,"reston, va",qomplx,information technology,10 to 25M,3.5,company_private,enterprise_software_network_solutions 
+97,data_scientist,75-145,"new york, ny",10000+ employees,1911.0,"mc lean, va",mars,manufacturing,10B+,3.9,company_private,manufacturing
+98,senior_data_scientist,75-145,"denver, co",51 to 200 employees,2009.0,"denver, co",gutcheck,business services,10 to 25M,3.8,company_private,advertising_marketing
+99,data_scientist,75-145,"washington, dc",1001 to 5000 employees,1959.0,"washington, dc",inter-american development bank,finance,10B+,3.5,other_organization,finance_and_banking
+100,data_scientist,75-145,new jersey,1 to 50 employees,2013.0,"holmdel, nj",avlino,information technology,less than 1M,4.9,company_private,enterprise_software_network_solutions 
+101,machine_learning_engineer,75-145,"aurora, co",1 to 50 employees,2007.0,"aurora, co",stratagem group,aerospace_&_defense,unknown_non_applicable,4.4,company_private,others
+102,data_scientist,75-145,"santa barbara, ca",51 to 200 employees,2012.0,"san mateo, ca",evidation,information technology,unknown_non_applicable,4.1,company_private,internet_telephone_providers
+103,senior_data_scientist,75-145,"san francisco, ca",5001 to 10000 employees,1982.0,"san rafael, ca",autodesk,information technology,2 to 5B,4.0,company_public,computer_hardware_software
+104,data_scientist,75-145,"san diego, ca",5001 to 10000 employees,1983.0,"mountain view, ca",intuit - data,information technology,2 to 5B,4.4,company_public,computer_hardware_software
+105,data_scientist,75-145,"hill afb, ut",501 to 1000 employees,1973.0,"goleta, ca",tecolote research,aerospace_&_defense,50 to 100M,3.8,company_private,others
+106,data_engineer,75-145,"chandler, az",501 to 1000 employees,1981.0,"franklin, tn",tivity health,health care,unknown_non_applicable,3.2,company_public,healthcare_and_pharmaceuticals
+107,data_engineer,75-145,"indianapolis, in",51 to 200 employees,2011.0,"indianapolis, in",hc1,biotech_&_pharmaceuticals,10 to 25M,2.9,company_private,others
+108,data_scientist,75-145,"san diego, ca",10000+ employees,1939.0,"palo alto, ca",hp inc.,information technology,unknown_non_applicable,4.1,company_public,computer_hardware_software
+109,data_scientist,75-145,"chantilly, va",10000+ employees,2013.0,"reston, va",saic,information technology,5 to 10M,3.7,company_public,enterprise_software_network_solutions 
+110,data_analyst,75-145,"nashville, tn",1001 to 5000 employees,1967.0,"new york, ny",alliancebernstein,finance,2 to 5B,3.2,company_public,finance_and_banking
+111,data_analyst,75-145,"timonium, md",51 to 200 employees,2013.0,"lutherville timonium, md",big huge games,media,unknown_non_applicable,4.9,subsidiary_or_business_segment,computer_hardware_software
+112,data_scientist,75-145,"herndon, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+113,data_engineer,75-145,"burlingame, ca",1 to 50 employees,2016.0,"burlingame, ca",phantom ai,information technology,unknown_non_applicable,5.0,company_private,computer_hardware_software
+114,data_scientist,75-145,"reston, va",1001 to 5000 employees,1996.0,"reston, va",noblis,business services,100 to 500M,4.0,nonprofit_organization,consulting
+115,data_scientist,75-145,"new york, ny",1 to 50 employees,2016.0,"new york, ny",spring health,health care,unknown_non_applicable,3.6,company_private,healthcare_and_pharmaceuticals
+116,others,75-145,"annapolis junction, md",51 to 200 employees,2002.0,"annapolis junction, md",clearedge,information technology,5 to 10M,4.0,company_private,computer_hardware_software
+117,data_analyst,75-145,"nashville, tn",1001 to 5000 employees,1967.0,"new york, ny",alliancebernstein,finance,2 to 5B,3.2,company_public,finance_and_banking
+118,others,75-145,"south san francisco, ca",51 to 200 employees,2019.0,"south san francisco, ca",arsenal biosciences,biotech_&_pharmaceuticals,unknown_non_applicable,5.0,company_private,others
+119,data_engineer,75-145,"bethesda, md",201 to 500 employees,2000.0,"bethesda, md",getwellnetwork,health care,50 to 100M,4.8,company_private,healthcare_and_pharmaceuticals
+120,data_scientist,75-145,"dayton, oh",51 to 200 employees,2006.0,"beavercreek, oh",tacg solutions,business services,unknown_non_applicable,4.5,company_private,consulting
+121,senior_data_scientist,75-145,"san francisco, ca",51 to 200 employees,2015.0,"san francisco, ca",scoop,information technology,unknown_non_applicable,4.7,company_private,internet_telephone_providers
+122,senior_data_scientist,75-145,"herndon, va",501 to 1000 employees,2012.0,"mc lean, va",novetta,information technology,100 to 500M,4.5,company_private,enterprise_software_network_solutions 
+123,data_engineer,75-145,"winter park, fl",51 to 200 employees,2006.0,"winter park, fl",izea,business services,25 to 50M,4.2,company_public,advertising_marketing
+124,others,75-145,"schaumburg, il",51 to 200 employees,2006.0,"schaumburg, il",montway inc,transportation_&_logistics,unknown_non_applicable,3.4,company_private,transportation_logistics
+125,data_scientist,75-145,"cupertino, ca",5001 to 10000 employees,1996.0,"sunnyvale, ca",juniper networks,telecommunications,2 to 5B,3.8,company_public,telecommunications_services
+126,data_scientist,75-145,"saint louis, mo",51 to 200 employees,2016.0,"saint louis, mo",1904labs,information technology,unknown_non_applicable,4.7,company_private,others
+127,data_scientist,75-145,"chicago, il",51 to 200 employees,2014.0,"chicago, il",xsell technologies,information technology,unknown_non_applicable,3.6,company_private,enterprise_software_network_solutions 
+128,data_engineer,75-145,"winter park, fl",51 to 200 employees,2006.0,"winter park, fl",izea,business services,25 to 50M,4.2,company_public,advertising_marketing
+129,data_scientist,75-145,"cupertino, ca",5001 to 10000 employees,1996.0,"sunnyvale, ca",juniper networks,telecommunications,2 to 5B,3.8,company_public,telecommunications_services
+130,data_scientist,75-145,"san francisco, ca",1 to 50 employees,2016.0,"san francisco, ca",notion labs,information technology,unknown_non_applicable,5.0,company_private,enterprise_software_network_solutions 
+131,senior_data_scientist,75-145,"lehi, ut",201 to 500 employees,2011.0,"lehi, ut",lendio,finance,50 to 100M,4.9,company_private,others
+132,data_engineer,75-145,"culver city, ca",51 to 200 employees,2003.0,"new york, ny",direct agents,business services,25 to 50M,4.4,company_private,advertising_marketing
+133,data_scientist,75-145,"lake oswego, or",1001 to 5000 employees,2012.0,"lake oswego, or",navex global,information technology,100 to 500M,3.3,company_private,computer_hardware_software
+134,machine_learning_engineer,75-145,remote,51 to 200 employees,2015.0,"san francisco, ca",triplebyte,information technology,unknown_non_applicable,3.2,company_private,computer_hardware_software
+135,machine_learning_engineer,75-145,remote,51 to 200 employees,2015.0,"san francisco, ca",triplebyte,information technology,unknown_non_applicable,3.2,company_private,computer_hardware_software
+136,senior_data_scientist,75-145,"lehi, ut",201 to 500 employees,2011.0,"lehi, ut",lendio,finance,50 to 100M,4.9,company_private,others
+137,data_scientist,75-145,"san mateo, ca",201 to 500 employees,2012.0,"san mateo, ca",upstart,finance,unknown_non_applicable,4.2,company_private,others
+138,data_analyst,75-145,"san francisco, ca",201 to 500 employees,1994.0,"saint louis, mo",envision llc,business services,25 to 50M,4.5,company_private,staffing_outsourcing
+139,data_engineer,75-145,"palo alto, ca",201 to 500 employees,2012.0,"palo alto, ca",applovin,media,unknown_non_applicable,4.8,company_private,computer_hardware_software
+140,others,75-145,"holyoke, ma",501 to 1000 employees,1997.0,"holyoke, ma",iso new england,"oil, gas, energy_&_utilities",unknown_non_applicable,3.8,nonprofit_organization,energy_and_utilities
+141,data_engineer,75-145,"chicago, il",1001 to 5000 employees,2001.0,"chicago, il",relativity,information technology,unknown_non_applicable,3.7,company_private,enterprise_software_network_solutions 
+142,senior_data_scientist,75-145,"san francisco, ca",51 to 200 employees,2013.0,"san francisco, ca",tempo automation,manufacturing,5 to 10M,3.3,company_private,manufacturing
+143,data_scientist,75-145,"mclean, va",5001 to 10000 employees,1958.0,"bedford, ma",mitre,government,1 to 2B,3.3,nonprofit_organization,government_public_sector
+144,machine_learning_engineer,75-145,"herndon, va",1 to 50 employees,2013.0,"dulles, va","expedition technology, inc.",aerospace_&_defense,10 to 25M,5.0,company_private,others
+145,others,75-145,"bethesda, md",501 to 1000 employees,2013.0,"bethesda, md",evidera,biotech_&_pharmaceuticals,100 to 500M,3.8,subsidiary_or_business_segment,others
+146,data_scientist,75-145,"woodbridge, nj",1001 to 5000 employees,1982.0,"boston, ma",plymouth rock assurance,insurance,10 to 25M,3.4,company_private,insurance_agencies
+147,others,75-145,"san diego, ca",501 to 1000 employees,2006.0,"san diego, ca",crown bioscience,biotech_&_pharmaceuticals,50 to 100M,2.4,company_private,others
+148,data_scientist,75-145,"cambridge, ma",51 to 200 employees,2000.0,"cambridge, ma",gns healthcare,biotech_&_pharmaceuticals,10 to 25M,2.9,company_private,others
+149,data_science_analytics_leadership,75-145,"dearborn, mi",201 to 500 employees,1967.0,"detroit, mi",onemagnify,business services,unknown_non_applicable,4.4,company_private,advertising_marketing
+150,data_scientist,75-145,"maryland heights, mo",10000+ employees,2016.0,"stamford, ct",spectrum,telecommunications,10B+,2.9,subsidiary_or_business_segment,internet_telephone_providers
+151,others,75-145,"rockville, md",201 to 500 employees,1961.0,"rockville, md",advanced bioscience laboratories,biotech_&_pharmaceuticals,50 to 100M,2.7,company_private,others
+152,data_engineer,75-145,"carpinteria, ca",1001 to 5000 employees,2002.0,"carpinteria, ca",procore technologies,information technology,unknown_non_applicable,4.2,company_private,computer_hardware_software
+153,others,75-145,"columbia, sc",201 to 500 employees,1995.0,"columbia, sc",ritedose,biotech_&_pharmaceuticals,100 to 500M,3.5,company_private,others
+154,others,75-145,"hauppauge, ny",unknown,,nan,covid-19 search partners,unknown,unknown_non_applicable,,unknown,others
+155,data_scientist,75-145,"saint louis, mo",10000+ employees,1963.0,"marcy-l'etoile, france",biomérieux,biotech_&_pharmaceuticals,2 to 5B,4.2,company_private,others
+156,data_scientist,90-170,"herndon, va",501 to 1000 employees,2012.0,"mc lean, va",novetta,information technology,100 to 500M,4.5,company_private,enterprise_software_network_solutions 
+157,data_scientist,90-170,"washington, dc",1 to 50 employees,1997.0,"mays landing, nj",guzman & griffin technologies (ggti),government,unknown_non_applicable,4.4,company_private,government_public_sector
+158,machine_learning_engineer,90-170,"reston, va",unknown,,nan,radical convergence,unknown,unknown_non_applicable,,unknown,others
+159,data_scientist,90-170,"fort meade, md",10000+ employees,1969.0,"reston, va",leidos,aerospace_&_defense,10B+,3.5,company_public,others
+160,data_scientist,90-170,"san francisco, ca",201 to 500 employees,2006.0,"san francisco, ca",demandbase,information technology,100 to 500M,4.5,company_private,computer_hardware_software
+161,data_analyst,90-170,"columbia, mo",1001 to 5000 employees,1946.0,"columbia, mo",shelter insurance,insurance,1 to 2B,4.1,company_private,insurance_agencies
+162,data_scientist,90-170,"chantilly, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+163,data_analyst,90-170,"washington, dc",501 to 1000 employees,1997.0,"washington, dc",usac,telecommunications,25 to 50M,2.7,nonprofit_organization,telecommunications_services
+164,computational_scientist,90-170,"vicksburg, ms",10000+ employees,1996.0,"fairfax, va",general dynamics information technology,information technology,10B+,3.4,subsidiary_or_business_segment,others
+165,data_scientist,90-170,"chandler, az",201 to 500 employees,2015.0,"chandler, az",offerpad,real estate,unknown_non_applicable,4.4,company_private,real_estate_construction
+166,senior_data_scientist,90-170,"san francisco, ca",5001 to 10000 employees,1982.0,"san rafael, ca",autodesk,information technology,2 to 5B,4.0,company_public,computer_hardware_software
+167,senior_data_scientist,90-170,"san francisco, ca",5001 to 10000 employees,1968.0,"herndon, va",autodesk,business services,1 to 2B,4.2,company_public,others
+168,data_engineer,90-170,"birmingham, al",10000+ employees,1957.0,"aurora, canada",magna international inc.,unknown,10B+,3.5,company_public,others
+169,data_analyst,90-170,"blue bell, pa",1001 to 5000 employees,2003.0,"blue bell, pa",united biosource,biotech_&_pharmaceuticals,100 to 500M,2.3,other_organization,others
+170,data_scientist,90-170,"chicago, il",5001 to 10000 employees,1946.0,"troy, mi",kelly,business services,5 to 10B,3.4,company_public,staffing_outsourcing
+171,machine_learning_engineer,90-170,"redwood city, ca",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+172,data_scientist,90-170,"redwood city, ca",201 to 500 employees,2009.0,"redwood city, ca",c3.ai,information technology,100 to 500M,4.7,company_private,enterprise_software_network_solutions 
+173,senior_data_scientist,90-170,"new york, ny",201 to 500 employees,2014.0,"new york, ny",quartet health,information technology,unknown_non_applicable,3.9,company_private,enterprise_software_network_solutions 
+174,data_analyst,90-170,"san diego, ca",1001 to 5000 employees,1953.0,"san diego, ca",midland credit management,finance,1 to 2B,3.3,subsidiary_or_business_segment,finance_and_banking
+175,senior_data_scientist,90-170,"chicago, il",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+176,data_engineer,90-170,"cincinnati, oh",201 to 500 employees,1998.0,"greenville, sc",resurgent capital services,finance,50 to 100M,4.4,company_private,finance_and_banking
+177,data_scientist,56-125,"richland, wa",1001 to 5000 employees,1965.0,"richland, wa",pnnl,"oil, gas, energy_&_utilities",500M to 1B,3.7,government,energy_and_utilities
+178,data_scientist,56-125,"memphis, tn",1001 to 5000 employees,1945.0,"memphis, tn",buckman,manufacturing,500M to 1B,3.5,company_private,manufacturing
+179,machine_learning_engineer,56-125,"memphis, tn",501 to 1000 employees,1967.0,"arlington, va",buckman,government,50 to 100M,3.6,nonprofit_organization,government_public_sector
+180,others,56-125,"bethesda, md",501 to 1000 employees,2013.0,"bethesda, md",evidera,biotech_&_pharmaceuticals,100 to 500M,3.8,subsidiary_or_business_segment,others
+181,data_analyst,56-125,"harrisburg, pa",201 to 500 employees,1997.0,"harrisburg, pa",webfx.com,business services,25 to 50M,4.7,company_private,advertising_marketing
+182,data_scientist,56-125,"new york, ny",1001 to 5000 employees,1948.0,"hamilton, bermuda",argo group us,insurance,1 to 2B,3.5,company_public,insurance_agencies
+183,data_scientist,56-125,"oak ridge, tn",5001 to 10000 employees,1850.0,"lynchburg, va",bwx technologies,aerospace_&_defense,500M to 1B,3.3,company_public,others
+184,senior_data_scientist,56-125,"san francisco, ca",51 to 200 employees,2008.0,"san francisco, ca",life360,information technology,unknown_non_applicable,3.9,company_public,internet_telephone_providers
+185,data_scientist,56-125,"boston, ma",5001 to 10000 employees,1851.0,"springfield, ma",massmutual,insurance,10B+,3.7,company_private,insurance_agencies
+186,data_analyst,56-125,"san carlos, ca",501 to 1000 employees,2004.0,"san carlos, ca",natera,biotech_&_pharmaceuticals,100 to 500M,3.9,company_public,others
+187,others,56-125,"south san francisco, ca",10000+ employees,1976.0,"south san francisco, ca",genentech,biotech_&_pharmaceuticals,10B+,4.0,subsidiary_or_business_segment,others
+188,computational_scientist,56-125,"herndon, va",201 to 500 employees,2010.0,"herndon, va",ntrepid,information technology,50 to 100M,4.2,company_private,others
+189,data_scientist,56-125,"waltham, ma",unknown,1995.0,"waltham, ma",constant contact,business services,unknown_non_applicable,3.6,subsidiary_or_business_segment,advertising_marketing
+190,machine_learning_engineer,56-125,"san francisco, ca",501 to 1000 employees,1999.0,"san jose, ca",sage intacct,information technology,unknown_non_applicable,4.7,subsidiary_or_business_segment,computer_hardware_software
+191,data_engineer,56-125,"santa clara, ca",51 to 200 employees,2011.0,"mountain view, ca",shape security,information technology,unknown_non_applicable,4.1,company_private,others
+192,data_scientist,56-125,"gaithersburg, md",10000+ employees,1913.0,"cambridge, united kingdom",astrazeneca,biotech_&_pharmaceuticals,10B+,4.0,company_public,others
+193,data_scientist,56-125,"san francisco, ca",unknown,,"jersey city, nj",skillsoniq,unknown,unknown_non_applicable,5.0,company_public,others
+194,senior_data_scientist,56-125,"new york, ny",10000+ employees,1913.0,"cambridge, united kingdom",astrazeneca,biotech_&_pharmaceuticals,10B+,4.0,company_public,others
+195,data_scientist,56-125,"san carlos, ca",51 to 200 employees,,"santa cruz, ca",joby aviation,unknown,unknown_non_applicable,4.3,company_private,others
+196,data_analyst,56-125,"fort worth, tx",5001 to 10000 employees,1918.0,"fort worth, tx",cook children's health care system,health care,100 to 500M,3.8,nonprofit_organization,healthcare_and_pharmaceuticals
+197,others,56-125,"smithfield, ri",201 to 500 employees,2013.0,"cambridge, ma",rubius therapeutics,biotech_&_pharmaceuticals,100 to 500M,3.8,company_public,others
+198,data_analyst,56-125,"cedar rapids, ia",501 to 1000 employees,1992.0,"cedar rapids, ia",greatamerica financial services,finance,100 to 500M,4.6,company_private,others
+199,data_scientist,56-125,remote,51 to 200 employees,2015.0,"washington, dc",upside business travel,information technology,unknown_non_applicable,4.1,company_private,internet_telephone_providers
+200,data_scientist,56-125,"chicago, il",51 to 200 employees,1992.0,"chicago, il",spectrum communications and consulting,business services,10 to 25M,3.4,company_private,advertising_marketing
+201,data_scientist,56-125,"mclean, va",51 to 200 employees,2008.0,"mclean, va",coverent,business services,10 to 25M,4.1,company_private,consulting
+202,machine_learning_engineer,56-125,"fort belvoir, va",501 to 1000 employees,1954.0,"lorton, va",mteq,aerospace_&_defense,100 to 500M,3.7,company_public,others
+203,data_engineer,56-125,"san francisco, ca",51 to 200 employees,2008.0,"san francisco, ca",rocket lawyer,information technology,50 to 100M,4.4,company_private,computer_hardware_software
+204,senior_data_scientist,56-125,"cambridge, ma",10000+ employees,1996.0,"basel, switzerland",novartis,biotech_&_pharmaceuticals,10B+,3.9,company_public,others
+205,data_engineer,56-125,"linthicum heights, md",1001 to 5000 employees,2001.0,"mc lean, va",alion science & technology,business services,1 to 2B,3.6,company_private,others
+206,others,56-125,"herndon, va",501 to 1000 employees,2012.0,"mc lean, va",novetta,information technology,100 to 500M,4.5,company_private,enterprise_software_network_solutions 
+207,others,56-125,"maple plain, mn",1001 to 5000 employees,1999.0,"maple plain, mn",protolabs,manufacturing,100 to 500M,3.7,company_public,manufacturing
+208,data_analyst,56-125,"tulsa, ok",201 to 500 employees,1996.0,"kent, wa",quest integrity,"oil, gas, energy_&_utilities",50 to 100M,2.9,company_public,energy_and_utilities
+209,data_scientist,56-125,"annapolis junction, md",1 to 50 employees,2011.0,"woodbine, md",phoenix operations group,information technology,1 to 5M,5.0,company_private,others
+210,data_scientist,56-125,"newton, ma",201 to 500 employees,1990.0,"denver, co",dice.com,business services,100 to 500M,3.4,subsidiary_or_business_segment,staffing_outsourcing
+211,senior_data_scientist,56-125,"herndon, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+212,data_scientist,56-125,"baltimore, md",1 to 50 employees,2011.0,"woodbine, md",phoenix operations group,information technology,1 to 5M,5.0,company_private,others
+213,others,56-125,"boston, ma",201 to 500 employees,2012.0,"boston, ma",klaviyo,information technology,unknown_non_applicable,4.8,company_private,computer_hardware_software
+214,others,56-125,"oklahoma city, ok",1001 to 5000 employees,1947.0,"san antonio, tx",southwest research institute,business services,500M to 1B,3.9,nonprofit_organization,others
+215,data_scientist,56-125,"gaithersburg, md",10000+ employees,1913.0,"cambridge, united kingdom",astrazeneca,biotech_&_pharmaceuticals,10B+,4.0,company_public,others
+216,data_analyst,56-125,"fort belvoir, va",501 to 1000 employees,2010.0,"reston, va",the buffalo group,information technology,100 to 500M,4.3,company_private,others
+217,data_science_analytics_leadership,56-125,"scotts valley, ca",501 to 1000 employees,1996.0,"scotts valley, ca",central california alliance for health,health care,500M to 1B,3.5,nonprofit_organization,healthcare_and_pharmaceuticals
+218,others,56-125,"boston, ma",5001 to 10000 employees,1851.0,"springfield, ma",massmutual,insurance,10B+,3.7,company_private,insurance_agencies
+219,machine_learning_engineer,56-125,"redwood city, ca",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+220,data_analyst,56-125,"spartanburg, sc",1001 to 5000 employees,1955.0,"spartanburg, sc",security finance corporation of spartanburg,finance,unknown_non_applicable,3.1,company_private,others
+221,data_scientist,56-125,"new york, ny",51 to 200 employees,2011.0,"new york, ny",pulsepoint,information technology,100 to 500M,4.3,company_private,internet_telephone_providers
+222,data_scientist,56-125,"orlando, fl",51 to 200 employees,1996.0,"orlando, fl",lsq,finance,100 to 500M,4.2,company_private,finance_and_banking
+223,data_engineer,56-125,"cincinnati, oh",201 to 500 employees,1998.0,"greenville, sc",resurgent capital services,finance,50 to 100M,4.4,company_private,finance_and_banking
+224,data_scientist,56-125,"san francisco, ca",501 to 1000 employees,2014.0,"san francisco, ca",opendoor,real estate,2 to 5B,3.6,company_private,real_estate_construction
+225,data_scientist,56-125,"hartford, ct",51 to 200 employees,2008.0,"woodbridge, nj",global data management inc,information technology,5 to 10M,4.5,company_private,others
+226,data_scientist,56-125,"chicago, il",1001 to 5000 employees,1999.0,"chennai, india",photon infotech,information technology,100 to 500M,3.0,company_private,others
+227,data_scientist,56-125,united states,51 to 200 employees,2018.0,"tel aviv-yafo, israel",ree,manufacturing,unknown_non_applicable,5.0,company_private,manufacturing
+228,machine_learning_engineer,56-125,"beavercreek, oh",501 to 1000 employees,1967.0,"arlington, va",riverside research institute,government,50 to 100M,3.6,nonprofit_organization,government_public_sector
+229,others,56-125,"baltimore, md",5001 to 10000 employees,1937.0,"baltimore, md",t. rowe price,finance,2 to 5B,3.6,company_public,finance_and_banking
+230,data_scientist,56-125,"norfolk, va",1 to 50 employees,,"manalapan, nj","encode, inc.",information technology,5 to 10M,,company_private,others
+231,others,56-125,"bethesda, md",501 to 1000 employees,2013.0,"bethesda, md",evidera,biotech_&_pharmaceuticals,100 to 500M,3.8,subsidiary_or_business_segment,others
+232,data_scientist,56-125,"oak ridge, tn",5001 to 10000 employees,1850.0,"lynchburg, va",bwx technologies,aerospace_&_defense,500M to 1B,3.3,company_public,others
+233,data_analyst,56-125,"charlotte, nc",1001 to 5000 employees,2017.0,"charlotte, nc",brighthouse financial,insurance,unknown_non_applicable,3.8,company_public,insurance_agencies
+234,data_scientist,56-125,"new york, ny",1001 to 5000 employees,1948.0,"hamilton, bermuda",argo group us,insurance,1 to 2B,3.5,company_public,insurance_agencies
+235,data_scientist,56-125,"champaign, il",10000+ employees,1971.0,"saxonburg, pa",ii-vi incorporated,telecommunications,1 to 2B,3.3,company_public,manufacturing
+236,data_scientist,56-125,"san francisco, ca",1 to 50 employees,,"bristol, pa",surya systems,information technology,less than 1M,4.6,company_private,computer_hardware_software
+237,data_scientist,56-125,texas,10000+ employees,1998.0,"san jose, ca",paypal,information technology,10B+,3.8,company_public,internet_telephone_providers
+238,senior_data_scientist,56-125,"san francisco, ca",51 to 200 employees,2008.0,"san francisco, ca",life360,information technology,unknown_non_applicable,3.9,company_public,internet_telephone_providers
+239,data_scientist,56-125,"plano, tx",1 to 50 employees,,"bangalore, india",predictive research inc,business services,unknown_non_applicable,3.9,company_private,consulting
+240,data_scientist,75-145,"atlanta, ga",51 to 200 employees,2003.0,"atlanta, ga",oversight systems,information technology,25 to 50M,4.7,company_private,computer_hardware_software
+241,data_scientist,75-145,"sheboygan, wi",1001 to 5000 employees,1925.0,"sheboygan, wi",acuity insurance,insurance,1 to 2B,4.8,company_private,insurance_agencies
+242,data_engineer,75-145,"new york, ny",201 to 500 employees,2000.0,"new york, ny",1010data,information technology,50 to 100M,3.1,company_private,computer_hardware_software
+243,data_scientist,75-145,"palo alto, ca",201 to 500 employees,2006.0,"mountain view, ca",gigya,information technology,10 to 25M,3.6,company_private,enterprise_software_network_solutions 
+244,others,75-145,"hoboken, nj",1 to 50 employees,2009.0,"hoboken, nj",genesis research,biotech_&_pharmaceuticals,unknown_non_applicable,5.0,company_private,others
+245,data_scientist,75-145,"cambridge, ma",10000+ employees,1973.0,"paris, france",sanofi,biotech_&_pharmaceuticals,10B+,3.7,company_public,others
+246,data_scientist,75-145,"lebanon, in",10000+ employees,2011.0,"greenwich, ct",xpo logistics,transportation_&_logistics,10B+,3.7,company_public,transportation_logistics
+247,data_scientist,75-145,"oakland, ca",51 to 200 employees,2000.0,"santa ana, ca",trace data,insurance,10 to 25M,3.9,company_private,insurance_agencies
+248,data_scientist,75-145,"san francisco, ca",1 to 50 employees,,"houston, tx",descript,unknown,less than 1M,4.3,company_private,others
+249,others,75-145,"melbourne, fl",201 to 500 employees,1983.0,"tucson, az",rincon research corporation,aerospace_&_defense,50 to 100M,4.2,company_private,others
+250,data_scientist,75-145,"boston, ma",5001 to 10000 employees,1851.0,"springfield, ma",massmutual,insurance,10B+,3.7,company_private,insurance_agencies
+251,data_scientist,75-145,"birmingham, al",1 to 50 employees,,"birmingham, al",better hire,unknown,unknown_non_applicable,4.0,company_private,others
+252,data_scientist,75-145,"cleveland, oh",10000+ employees,1917.0,"cleveland, oh",parker hannifin,manufacturing,10B+,3.3,company_public,manufacturing
+253,data_scientist,75-145,"new york, ny",1001 to 5000 employees,1935.0,"washington, dc",gallup,business services,unknown_non_applicable,4.1,company_private,consulting
+254,data_scientist,75-145,"new york, ny",201 to 500 employees,2007.0,"new york, ny",insider inc,media,50 to 100M,3.3,company_private,others
+255,data_scientist,75-145,"san francisco, ca",201 to 500 employees,2009.0,"pleasanton, ca",rapid value solutions,information technology,unknown_non_applicable,3.9,company_private,others
+256,others,75-145,"norwell, ma",10000+ employees,1929.0,"columbus, oh",battelle,business services,5 to 10B,3.1,nonprofit_organization,others
+257,computational_scientist,75-145,"herndon, va",201 to 500 employees,2010.0,"herndon, va",ntrepid,information technology,50 to 100M,4.2,company_private,others
+258,data_scientist,75-145,"new york, ny",unknown,,nan,"the drive media, inc.",unknown,unknown_non_applicable,5.0,unknown,others
+259,data_engineer,75-145,"san jose, ca",51 to 200 employees,1998.0,"new york, ny",affinity solutions,business services,unknown_non_applicable,2.9,company_private,advertising_marketing
+260,machine_learning_engineer,75-145,"san francisco, ca",501 to 1000 employees,1999.0,"san jose, ca",sage intacct,information technology,unknown_non_applicable,4.7,subsidiary_or_business_segment,computer_hardware_software
+261,data_scientist,75-145,"waltham, ma",unknown,1995.0,"waltham, ma",constant contact,business services,unknown_non_applicable,3.6,subsidiary_or_business_segment,advertising_marketing
+262,data_scientist,90-170,"lexington, ma",1001 to 5000 employees,1951.0,"lexington, ma",mit lincoln laboratory,aerospace_&_defense,unknown_non_applicable,3.8,nonprofit_organization,others
+263,data_scientist,90-170,"bothell, wa",1001 to 5000 employees,1999.0,"bellevue, wa",puget sound energy,"oil, gas, energy_&_utilities",2 to 5B,3.3,company_private,energy_and_utilities
+264,data_scientist,90-170,"richland, wa",1001 to 5000 employees,1965.0,"richland, wa",pacific northwest national laboratory,"oil, gas, energy_&_utilities",500M to 1B,3.7,government,energy_and_utilities
+265,others,90-170,"boston, ma",1001 to 5000 employees,1981.0,"boston, ma",analysis group,business services,100 to 500M,3.8,private_practice_firm,consulting
+266,data_scientist,90-170,"rockville, md",1001 to 5000 employees,1820.0,"rockville, md",us pharmacopeia,biotech_&_pharmaceuticals,100 to 500M,3.2,nonprofit_organization,others
+267,data_scientist,90-170,"piscataway, nj",201 to 500 employees,2010.0,"piscataway, nj",itlize global,information technology,10 to 25M,4.6,company_private,others
+268,data_scientist,90-170,"san jose, ca",10000+ employees,1995.0,"san jose, ca",ebay,information technology,10B+,3.5,company_public,internet_telephone_providers
+269,data_engineer,90-170,"new york, ny",1 to 50 employees,2018.0,"new york, ny",paige,information technology,unknown_non_applicable,5.0,company_private,enterprise_software_network_solutions 
+270,data_engineer,90-170,"santa clara, ca",51 to 200 employees,2011.0,"mountain view, ca",shape security,information technology,unknown_non_applicable,4.1,company_private,others
+271,data_science_analytics_leadership,90-170,"danvers, ma",1001 to 5000 employees,1981.0,"danvers, ma",abiomed,biotech_&_pharmaceuticals,100 to 500M,4.1,company_public,others
+272,data_scientist,90-170,"new york, ny",10000+ employees,1963.0,"philadelphia, pa",comcast,unknown,10B+,3.5,company_public,others
+273,data_scientist,90-170,"vienna, va",51 to 200 employees,2011.0,"fairfax, va","metronome, llc",information technology,10 to 25M,3.2,company_private,others
+274,data_scientist,90-170,"san francisco, ca",unknown,,"jersey city, nj",skillsoniq,unknown,unknown_non_applicable,5.0,company_public,others
+275,data_scientist,90-170,"livermore, ca",1001 to 5000 employees,1952.0,"livermore, ca",lawrence livermore national lab,government,1 to 2B,4.7,government,government_public_sector
+276,data_analyst,90-170,"pittsburgh, pa",201 to 500 employees,1932.0,"pittsburgh, pa",fhlbank pittsburgh,finance,1 to 2B,3.8,company_private,finance_and_banking
+277,data_scientist,90-170,"herndon, va",10000+ employees,1947.0,"dallas, tx",jacobs,business services,10B+,3.6,company_public,others
+278,data_scientist,90-170,"boston, ma",201 to 500 employees,2012.0,"boston, ma",klaviyo,information technology,unknown_non_applicable,4.8,company_private,computer_hardware_software
+279,data_scientist,90-170,"northbrook, il",10000+ employees,1894.0,"northbrook, il",underwriters laboratories,business services,2 to 5B,3.3,company_private,consulting
+280,data_scientist,90-170,"irvine, ca",1001 to 5000 employees,2005.0,"toronto, canada",altus group,real estate,100 to 500M,3.7,company_public,real_estate_construction
+281,data_scientist,90-170,"irvine, ca",51 to 200 employees,2018.0,"irvine, ca",jobot,business services,25 to 50M,5.0,company_private,staffing_outsourcing
+282,data_scientist,90-170,"san francisco, ca",unknown,,"hillsborough, nj",trovetechs inc,unknown,unknown_non_applicable,,company_private,others
+283,data_scientist,140-225,"santa monica, ca",501 to 1000 employees,1966.0,"santa monica, ca",edmunds.com,information technology,100 to 500M,3.4,company_private,internet_telephone_providers
+284,data_scientist,140-225,"boston, ma",1 to 50 employees,2019.0,"boston, ma",cohere health,information technology,unknown_non_applicable,5.0,company_private,others
+285,data_scientist,140-225,"san francisco, ca",unknown,,"hillsborough, nj",trovetechs inc,unknown,unknown_non_applicable,,company_private,others
+286,senior_data_scientist,140-225,"new york, ny",10000+ employees,1913.0,"cambridge, united kingdom",astrazeneca,biotech_&_pharmaceuticals,10B+,4.0,company_public,others
+287,data_scientist,140-225,"oshkosh, wi",10000+ employees,1917.0,"oshkosh, wi",oshkosh corporation,manufacturing,5 to 10B,4.2,company_public,manufacturing
+288,data_scientist,140-225,"san carlos, ca",51 to 200 employees,,"santa cruz, ca",joby aviation,unknown,unknown_non_applicable,4.3,company_private,others
+289,data_scientist,140-225,"menlo park, ca",51 to 200 employees,1960.0,"pittsburgh, pa",mackin,business services,10 to 25M,3.4,company_private,others
+290,data_scientist,140-225,"san francisco, ca",51 to 200 employees,,"fremont, ca",petadata,unknown,unknown_non_applicable,,company_private,others
+291,data_scientist,140-225,"dallas, tx",201 to 500 employees,2006.0,"hillsborough, nj",vbeyond corporation,business services,5 to 10M,4.4,company_private,staffing_outsourcing
+292,data_scientist,140-225,"arlington, va",10000+ employees,1969.0,"reston, va",leidos,aerospace_&_defense,10B+,3.5,company_public,others
+293,data_scientist,140-225,"san francisco, ca",1001 to 5000 employees,1993.0,"new york, ny",take-two,media,1 to 2B,3.7,company_public,computer_hardware_software
+294,data_scientist,140-225,"monroe, wi",501 to 1000 employees,,"monroe, wi",colony brands,retail,100 to 500M,3.7,company_private,others
+295,data_scientist,140-225,"sacramento, ca",10000+ employees,,"goteborg, sweden",capio group,health care,unknown_non_applicable,4.1,hospital,healthcare_and_pharmaceuticals
+296,data_scientist,140-225,"new york, ny",1 to 50 employees,2017.0,"new york, ny",sleepare,retail,unknown_non_applicable,3.4,company_private,others
+297,data_analyst,140-225,"reston, va",1 to 50 employees,2017.0,"washington, dc",shorepoint,information technology,unknown_non_applicable,4.5,company_private,others
+298,data_scientist,140-225,"new york, ny",1001 to 5000 employees,1990.0,"lake buena vista, fl",dolphin,travel_&_tourism,unknown_non_applicable,3.5,company_private,others
+299,data_scientist,140-225,"hampton, va",10000+ employees,2007.0,"schaffhausen, switzerland",te connectivity,manufacturing,10B+,3.6,company_public,manufacturing
+300,data_scientist,140-225,"richmond, va",10000+ employees,1788.0,"richmond, va",state of virginia,government,10B+,3.2,government,government_public_sector
+301,data_scientist,140-225,"new york, ny",501 to 1000 employees,2000.0,"newark, ca",ta digital,information technology,25 to 50M,3.7,company_private,computer_hardware_software
+302,data_scientist,140-225,"monterey, ca",501 to 1000 employees,1992.0,"greensboro, nc",market america inc,retail,100 to 500M,4.0,company_private,others
+303,data_scientist,140-225,"chicago, il",51 to 200 employees,2015.0,"san francisco, ca",triplebyte,information technology,unknown_non_applicable,3.2,company_private,computer_hardware_software
+304,data_scientist,140-225,"mclean, va",51 to 200 employees,2005.0,"falls church, va",kingfisher systems,government,25 to 50M,4.5,company_private,government_public_sector
+305,others,140-225,remote,51 to 200 employees,2013.0,"san francisco, ca",trueaccord,information technology,unknown_non_applicable,3.4,company_private,enterprise_software_network_solutions 
+306,data_scientist,140-225,"woodlawn, md",201 to 500 employees,2004.0,"rockville, md",alta it services,information technology,10 to 25M,3.9,company_private,others
+307,data_scientist,140-225,united states,1 to 50 employees,,"scottsdale, az",kollasoft inc.,information technology,1 to 5M,3.2,company_private,others
+308,data_scientist,140-225,"new york, ny",unknown,,"irving, tx",kollasoft inc.,unknown,unknown_non_applicable,5.0,company_public,others
+309,data_scientist,140-225,"reston, va",5001 to 10000 employees,2003.0,"beltsville, md",asrc federal holding company,aerospace_&_defense,500M to 1B,3.4,company_private,others
+310,data_scientist,140-225,"new york, ny",51 to 200 employees,2015.0,"houston, tx",adwait algorithm,information technology,unknown_non_applicable,4.4,company_private,others
+311,data_analyst,140-225,"fort worth, tx",5001 to 10000 employees,1918.0,"fort worth, tx",cook children's health care system,health care,100 to 500M,3.8,nonprofit_organization,healthcare_and_pharmaceuticals
+312,others,140-225,"smithfield, ri",201 to 500 employees,2013.0,"cambridge, ma",rubius therapeutics,biotech_&_pharmaceuticals,100 to 500M,3.8,company_public,others
+313,data_scientist,140-225,"atlanta, ga",201 to 500 employees,1992.0,"toronto, canada",cambridge fx,finance,100 to 500M,3.5,company_public,others
+314,senior_data_scientist,140-225,"san francisco, ca",201 to 500 employees,2011.0,"san francisco, ca",metromile,insurance,unknown_non_applicable,3.8,company_private,insurance_agencies
+315,data_scientist,140-225,"ann arbor, mi",1001 to 5000 employees,2005.0,"paris, france",criteo,information technology,2 to 5B,3.9,company_public,internet_telephone_providers
+316,data_scientist,140-225,"pittsburgh, pa",51 to 200 employees,,"pittsburgh, pa",advance sourcing concepts,unknown,1 to 5M,3.4,company_private,others
+317,data_scientist,140-225,"new york, ny",51 to 200 employees,2000.0,"naperville, il",enterprise solutions inc,business services,25 to 50M,3.8,company_private,staffing_outsourcing
+318,data_analyst,140-225,"cedar rapids, ia",501 to 1000 employees,1992.0,"cedar rapids, ia",greatamerica financial services,finance,100 to 500M,4.6,company_private,others
+319,data_scientist,140-225,"new york, ny",1 to 50 employees,,"princeton, nj",microagility,business services,1 to 5M,,company_private,consulting
+320,data_scientist,140-225,"concord, ca",51 to 200 employees,,"memphis, tn","conch technologies, inc",business services,5 to 10M,4.6,company_private,consulting
+321,others,140-225,"richmond, va",10000+ employees,1830.0,"brentford, united kingdom",gsk,biotech_&_pharmaceuticals,10B+,3.9,company_public,others
+322,data_scientist,140-225,"cincinnati, oh",1 to 50 employees,,"cincinnati, oh","rainmaker resources, llc",unknown,unknown_non_applicable,,company_private,others
+323,data_scientist,75-145,"san francisco, ca",1001 to 5000 employees,2016.0,"singapore, singapore",govtech,government,unknown_non_applicable,3.7,government,government_public_sector
+324,data_scientist,75-145,"bellevue, wa",501 to 1000 employees,2000.0,"bellevue, wa",intellectual ventures,finance,unknown_non_applicable,3.3,company_private,finance_and_banking
+325,data_engineer,75-145,"san francisco, ca",51 to 200 employees,2008.0,"san francisco, ca",rocket lawyer,information technology,50 to 100M,4.4,company_private,computer_hardware_software
+326,data_scientist,75-145,"oakland, ca",1001 to 5000 employees,1997.0,"somerset, nj",22nd century technologies,information technology,25 to 50M,3.7,company_private,others
+327,data_scientist,75-145,"san francisco, ca",201 to 500 employees,1995.0,"london, united kingdom",huxley,business services,25 to 50M,3.3,company_private,staffing_outsourcing
+328,data_scientist,75-145,"boston, ma",51 to 200 employees,1984.0,"raleigh, nc",fm systems,information technology,5 to 10M,3.4,company_private,computer_hardware_software
+329,data_scientist,75-145,"reston, va",51 to 200 employees,,"leesburg, va",b4corp,information technology,unknown_non_applicable,,company_private,others
+330,machine_learning_engineer,75-145,"fort belvoir, va",501 to 1000 employees,1954.0,"lorton, va",mteq,aerospace_&_defense,100 to 500M,3.7,company_public,others
+331,others,75-145,"durham, nc",1001 to 5000 employees,1933.0,"durham, nc",blue cross and blue shield of north carolina,insurance,5 to 10B,3.7,company_private,insurance_agencies
+332,machine_learning_engineer,75-145,"new york, ny",501 to 1000 employees,2000.0,"new york, ny",jane street,finance,unknown_non_applicable,4.8,company_private,finance_and_banking
+333,data_scientist,75-145,"mclean, va",1 to 50 employees,2003.0,"annapolis junction, md",ssati,information technology,10 to 25M,5.0,company_private,computer_hardware_software
+334,senior_data_scientist,75-145,"cambridge, ma",10000+ employees,1996.0,"basel, switzerland",novartis,biotech_&_pharmaceuticals,10B+,3.9,company_public,others
+335,data_scientist,75-145,"chicago, il",501 to 1000 employees,,"chicago, il",solving it international inc,unknown,unknown_non_applicable,3.4,company_private,others
+336,data_scientist,75-145,"kent, oh",10000+ employees,1880.0,"kent, oh",the davey tree expert company,agriculture_&_forestry,1 to 2B,3.3,self-employed,others
+337,data_scientist,75-145,"reston, va",501 to 1000 employees,1999.0,"chantilly, va",centauri,aerospace_&_defense,100 to 500M,4.6,company_private,others
+338,data_scientist,75-145,"san francisco, ca",1 to 50 employees,,"westlake village, ca",stride search,unknown,less than 1M,,company_private,others
+339,machine_learning_engineer,75-145,"pittsburgh, pa",501 to 1000 employees,1984.0,"pittsburgh, pa",software engineering institute,education,unknown_non_applicable,2.6,college_university,others
+340,data_analyst,75-145,"carson, ca",201 to 500 employees,1986.0,"carson, ca",dermalogica,manufacturing,100 to 500M,3.8,subsidiary_or_business_segment,manufacturing
+341,data_scientist,75-145,"new york, ny",1 to 50 employees,2011.0,"north brunswick, nj",techprojects,information technology,unknown_non_applicable,4.8,company_private,others
+342,others,75-145,"new york, ny",51 to 200 employees,2012.0,"new york, ny",7park data,business services,unknown_non_applicable,3.9,company_private,others
+343,data_scientist,90-170,"santa clara, ca",501 to 1000 employees,2012.0,"santa clara, ca",netskope,information technology,unknown_non_applicable,4.0,company_private,enterprise_software_network_solutions 
+344,data_scientist,90-170,"palo alto, ca",51 to 200 employees,2013.0,"palo alto, ca",eversight,information technology,10 to 25M,4.2,company_private,enterprise_software_network_solutions 
+345,others,90-170,"maple plain, mn",1001 to 5000 employees,1999.0,"maple plain, mn",protolabs,manufacturing,100 to 500M,3.7,company_public,manufacturing
+346,data_scientist,90-170,"cincinnati, oh",1001 to 5000 employees,1887.0,"lincoln, ne",ameritas life insurance corp,insurance,2 to 5B,3.0,company_private,insurance_agencies
+347,data_engineer,90-170,"san jose, ca",10000+ employees,1970.0,"san jose, ca",western digital,information technology,10B+,3.5,company_public,computer_hardware_software
+348,data_scientist,90-170,"santa clara, ca",1 to 50 employees,,"benicia, ca","shimento, inc.",unknown,1 to 5M,2.9,company_private,others
+349,data_scientist,90-170,"new york, ny",1 to 50 employees,2014.0,"new york, ny",averity,business services,unknown_non_applicable,5.0,company_private,staffing_outsourcing
+350,data_scientist,90-170,"chantilly, va",201 to 500 employees,2002.0,"annapolis junction, md",praxis engineering,information technology,100 to 500M,4.7,subsidiary_or_business_segment,computer_hardware_software
+351,data_scientist,90-170,"palo alto, ca",unknown,,nan,point72 ventures,unknown,unknown_non_applicable,,unknown,others
+352,others,90-170,"laurel, md",5001 to 10000 employees,1942.0,"laurel, md",johns hopkins university applied physics laboratory,aerospace_&_defense,1 to 2B,4.5,nonprofit_organization,others
+353,data_scientist,90-170,"cambridge, ma",1 to 50 employees,2010.0,"cambridge, ma",cambridge mobile telematics,information technology,unknown_non_applicable,4.9,company_private,enterprise_software_network_solutions 
+354,data_engineer,90-170,"columbia, md",51 to 200 employees,2002.0,"columbia, md",blend360,business services,unknown_non_applicable,4.6,company_private,consulting
+355,data_scientist,90-170,"annapolis junction, md",1 to 50 employees,2011.0,"woodbine, md",phoenix operations group,information technology,1 to 5M,5.0,company_private,others
+356,data_analyst,90-170,"falls church, va",51 to 200 employees,2012.0,"vienna, va",nolij consulting,business services,1 to 5M,3.9,company_public,consulting
+357,data_scientist,90-170,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+358,data_scientist,90-170,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+359,data_scientist,90-170,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+360,data_scientist,90-170,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+361,data_scientist,90-170,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+362,data_scientist,90-170,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+363,senior_data_scientist,90-170,"herndon, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+364,data_scientist,90-170,"cambridge, ma",201 to 500 employees,1999.0,"cambridge, ma",quick base,information technology,unknown_non_applicable,4.3,company_private,enterprise_software_network_solutions 
+365,data_scientist,90-170,"cambridge, ma",10000+ employees,1781.0,"osaka, japan",takeda,biotech_&_pharmaceuticals,10B+,3.7,company_public,others
+366,data_scientist,90-170,"herndon, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+367,others,90-170,"oklahoma city, ok",1001 to 5000 employees,1947.0,"san antonio, tx",southwest research institute,business services,500M to 1B,3.9,nonprofit_organization,others
+368,data_scientist,90-170,"thousand oaks, ca",51 to 200 employees,2008.0,"danville, ca",compass consulting group,business services,unknown_non_applicable,4.7,company_private,consulting
+369,others,90-170,"boston, ma",201 to 500 employees,2012.0,"boston, ma",klaviyo,information technology,unknown_non_applicable,4.8,company_private,computer_hardware_software
+370,data_scientist,90-170,"gaithersburg, md",10000+ employees,1913.0,"cambridge, united kingdom",astrazeneca,biotech_&_pharmaceuticals,10B+,4.0,company_public,others
+371,data_scientist,90-170,"edison, nj",51 to 200 employees,,"wilmington, ma","solutionit, inc.",unknown,unknown_non_applicable,4.4,company_private,others
+372,data_scientist,90-170,"adelphi, md",10000+ employees,2018.0,"chantilly, va",perspecta,aerospace_&_defense,unknown_non_applicable,3.2,company_public,others
+373,data_scientist,90-170,"washington, dc",1 to 50 employees,1980.0,"new york, 061",smith hanley associates,business services,unknown_non_applicable,4.5,company_private,staffing_outsourcing
+374,machine_learning_engineer,90-170,"seattle, wa",201 to 500 employees,2003.0,"seattle, wa",allen institute,business services,100 to 500M,3.5,nonprofit_organization,others
+375,data_scientist,90-170,"plano, tx",1001 to 5000 employees,1989.0,"reading, ma",eliassen group,business services,100 to 500M,4.4,company_private,staffing_outsourcing
+376,data_scientist,90-170,"sunnyvale, ca",1 to 50 employees,2001.0,"pleasanton, ca",bayside solutions,business services,1 to 5M,3.1,company_private,staffing_outsourcing
+377,data_scientist,90-170,"denver, co",201 to 500 employees,2011.0,"denver, co",evolve vacation rental,travel_&_tourism,unknown_non_applicable,3.5,company_private,others
+378,data_scientist,90-170,"thousand oaks, ca",1001 to 5000 employees,1999.0,"folsom, ca",agreeya solutions,information technology,50 to 100M,3.8,company_private,others
+379,data_scientist,90-170,"mclean, va",5001 to 10000 employees,1908.0,"raleigh, nc",carolina power & light co,"oil, gas, energy_&_utilities",unknown_non_applicable,3.7,subsidiary_or_business_segment,energy_and_utilities
+380,data_science_analytics_leadership,90-170,"scotts valley, ca",501 to 1000 employees,1996.0,"scotts valley, ca",central california alliance for health,health care,500M to 1B,3.5,nonprofit_organization,healthcare_and_pharmaceuticals
+381,others,90-170,"boston, ma",5001 to 10000 employees,1851.0,"springfield, ma",massmutual,insurance,10B+,3.7,company_private,insurance_agencies
+382,others,90-170,"boston, ma",1 to 50 employees,2003.0,"austin, tx","new iron group, inc.",information technology,unknown_non_applicable,5.0,contract,computer_hardware_software
+383,data_engineer,90-170,"hartford, ct",10000+ employees,1853.0,"hartford, ct",travelers,insurance,10B+,4.0,company_public,insurance_agencies
+384,senior_data_scientist,90-170,"san francisco, ca",1001 to 5000 employees,2011.0,"san francisco, ca",twitch,information technology,unknown_non_applicable,3.6,subsidiary_or_business_segment,internet_telephone_providers
+385,senior_data_scientist,90-170,"boston, ma",201 to 500 employees,2012.0,"boston, ma",klaviyo,information technology,unknown_non_applicable,4.8,company_private,computer_hardware_software
+386,data_scientist,90-170,"denver, co",51 to 200 employees,2009.0,"denver, co",gutcheck,business services,10 to 25M,3.8,company_private,advertising_marketing
+387,others,90-170,"cambridge, ma",5001 to 10000 employees,1978.0,"cambridge, ma",biogen,biotech_&_pharmaceuticals,10B+,3.6,company_public,others
+388,data_scientist,90-170,"san francisco, ca",unknown,,nan,hireai,unknown,unknown_non_applicable,,unknown,others
+389,data_scientist,90-170,"san francisco, ca",unknown,,nan,hireai,unknown,unknown_non_applicable,,unknown,others
+390,machine_learning_engineer,90-170,"redwood city, ca",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+391,data_scientist,90-170,"fremont, ca",5001 to 10000 employees,1981.0,"wilsonville, or",mentor graphics,information technology,1 to 2B,4.1,company_public,computer_hardware_software
+392,data_scientist,90-170,"hamilton, nj",1001 to 5000 employees,,"princeton, nj",wcg (wirb-copernicus group),biotech_&_pharmaceuticals,100 to 500M,3.6,company_private,others
+393,data_engineer,90-170,"falls church, va",51 to 200 employees,2005.0,"falls church, va",kingfisher systems,government,25 to 50M,4.5,company_private,government_public_sector
+394,others,90-170,"chicago, il",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+395,others,90-170,"indianapolis, in",10000+ employees,1912.0,"boston, ma",liberty mutual insurance,insurance,10B+,3.4,company_private,insurance_agencies
+396,data_scientist,90-170,"washington, dc",501 to 1000 employees,1996.0,"folsom, ca",visionary integration professionals,information technology,100 to 500M,4.3,company_private,others
+397,data_scientist,90-170,"herndon, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+398,others,90-170,"huntsville, al",1001 to 5000 employees,1974.0,"huntsville, al",dynetics,aerospace_&_defense,100 to 500M,4.0,company_private,others
+399,others,90-170,"woburn, ma",201 to 500 employees,2010.0,"woburn, ma",systems & technology research,aerospace_&_defense,100 to 500M,4.5,company_private,others
+400,senior_data_scientist,90-170,"herndon, va",501 to 1000 employees,2012.0,"mc lean, va",novetta,information technology,100 to 500M,4.5,company_private,enterprise_software_network_solutions 
+401,data_engineer,90-170,"merrifield, va",10000+ employees,1933.0,"vienna, va",navy federal credit union,finance,unknown_non_applicable,3.9,other_organization,finance_and_banking
+402,others,90-170,"madison, wi",1001 to 5000 employees,1995.0,"madison, wi",exact sciences corporation,health care,100 to 500M,4.0,company_public,healthcare_and_pharmaceuticals
+403,data_analyst,90-170,"philadelphia, pa",201 to 500 employees,1994.0,"phila, pa",community behavioral health,health care,500M to 1B,3.6,company_private,healthcare_and_pharmaceuticals
+404,others,90-170,"winston-salem, nc",5001 to 10000 employees,1875.0,"winston-salem, nc",reynolds american,manufacturing,10B+,3.3,company_private,manufacturing
+405,machine_learning_engineer,90-170,"raleigh, nc",51 to 200 employees,2016.0,"indianapolis, in",lifeomic,information technology,unknown_non_applicable,5.0,company_private,enterprise_software_network_solutions 
+406,data_scientist,120-200,"san francisco, ca",1001 to 5000 employees,2006.0,"san francisco, ca",twitter,information technology,2 to 5B,4.1,company_public,internet_telephone_providers
+407,data_scientist,120-200,"san francisco, ca",1001 to 5000 employees,2011.0,"san francisco, ca",postmates - corporate hq,transportation_&_logistics,unknown_non_applicable,3.2,company_private,others
+408,data_scientist,120-200,"columbia, md",51 to 200 employees,2010.0,"columbia, md","visionist, inc.",information technology,10 to 25M,4.9,company_private,enterprise_software_network_solutions 
+409,data_scientist,120-200,"san mateo, ca",unknown,,"half moon bay, ca",navio,unknown,unknown_non_applicable,,unknown,others
+410,data_scientist,120-200,"boston, ma",201 to 500 employees,2018.0,"boston, ma",concerto healthai,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+411,data_scientist,120-200,"burbank, ca",1 to 50 employees,2005.0,"los angeles, ca",evolvinc,information technology,unknown_non_applicable,,company_private,others
+412,data_scientist,120-200,"sunnyvale, ca",1 to 50 employees,,"london, united kingdom",proprius,information technology,unknown_non_applicable,5.0,company_private,enterprise_software_network_solutions 
+413,data_scientist,120-200,"san ramon, ca",1 to 50 employees,,"hilliard, oh",technocraft solutions,business services,1 to 5M,3.4,company_private,advertising_marketing
+414,data_scientist,120-200,"washington, dc",1 to 50 employees,,"hanover, md","latitude, inc.",business services,1 to 5M,4.1,company_private,consulting
+415,data_scientist,120-200,"springfield, va",51 to 200 employees,2014.0,"arlington, va",royce geospatial,aerospace_&_defense,10 to 25M,5.0,company_private,others
+416,data_scientist,120-200,"phoenix, az",201 to 500 employees,1999.0,"irvine, ca",cybercoders,business services,100 to 500M,4.2,subsidiary_or_business_segment,staffing_outsourcing
+417,data_scientist,120-200,"oxnard, ca",10000+ employees,1914.0,"mc lean, va",booz allen hamilton inc.,business services,5 to 10B,3.7,company_public,consulting
+418,data_scientist,120-200,"kansas city, mo",5001 to 10000 employees,1898.0,"kansas city, mo",burns & mcdonnell,business services,1 to 2B,3.8,company_private,others
+419,data_scientist,120-200,"jersey city, nj",201 to 500 employees,2010.0,"bengaluru, india",inventech info,information technology,1 to 5M,4.8,company_private,others
+420,data_scientist,120-200,"manchester, nh",10000+ employees,1948.0,"menlo park, ca",robert half,business services,2 to 5B,3.5,company_public,staffing_outsourcing
+421,data_analyst,120-200,"cedar rapids, ia",501 to 1000 employees,1992.0,"cedar rapids, ia",greatamerica financial services,finance,100 to 500M,4.6,company_private,others
+422,data_scientist,120-200,"winters, tx",1 to 50 employees,,"alpharetta, ga",conflux systems inc.,accounting_&_legal,less than 1M,4.5,company_private,others
+423,data_scientist,120-200,"ann arbor, mi",1001 to 5000 employees,2005.0,"paris, france",criteo,information technology,2 to 5B,3.9,company_public,internet_telephone_providers
+424,data_scientist,120-200,"brooklyn, ny",unknown,,nan,voice,unknown,unknown_non_applicable,3.4,company_private,others
+425,data_scientist,120-200,"new york, ny",1 to 50 employees,,"princeton, nj",microagility,business services,1 to 5M,,company_private,consulting
+426,data_scientist,120-200,"mclean, va",51 to 200 employees,2008.0,"mclean, va",coverent,business services,10 to 25M,4.1,company_private,consulting
+427,data_scientist,75-145,"new york, ny",501 to 1000 employees,2012.0,"new york, ny",via transportation,information technology,unknown_non_applicable,3.7,company_private,internet_telephone_providers
+428,senior_data_scientist,75-145,"saint louis, mo",201 to 500 employees,2012.0,"saint louis, mo",benson hill,biotech_&_pharmaceuticals,1 to 5M,3.5,company_private,others
+429,data_scientist,75-145,"concord, ca",51 to 200 employees,,"memphis, tn","conch technologies, inc",business services,5 to 10M,4.6,company_private,consulting
+430,data_scientist,75-145,"fort belvoir, va",unknown,,"washington, dc",falcon it & staffing solutions,unknown,unknown_non_applicable,,company_public,others
+431,data_scientist,75-145,"cincinnati, oh",1 to 50 employees,,"cincinnati, oh","rainmaker resources, llc",unknown,unknown_non_applicable,,company_private,others
+432,data_engineer,75-145,"san francisco, ca",51 to 200 employees,2008.0,"san francisco, ca",rocket lawyer,information technology,50 to 100M,4.4,company_private,computer_hardware_software
+433,data_scientist,75-145,"germantown, md",51 to 200 employees,,"germantown, md",datalab usa,information technology,unknown_non_applicable,3.6,company_private,others
+434,data_scientist,75-145,"omaha, ne",10000+ employees,1956.0,"omaha, ne",werner enterprises inc,transportation_&_logistics,2 to 5B,3.1,company_public,others
+435,data_scientist,75-145,"mclean, va",1 to 50 employees,,"reston, va",peoplecom,unknown,1 to 5M,5.0,company_private,others
+436,data_scientist,75-145,"open fork, va",1 to 50 employees,2018.0,"clifton park, ny",vanta partners,business services,unknown_non_applicable,5.0,company_private,staffing_outsourcing
+437,data_scientist,75-145,"reston, va",51 to 200 employees,,"leesburg, va",b4corp,information technology,unknown_non_applicable,,company_private,others
+438,data_scientist,75-145,united states,1 to 50 employees,,"livonia, mi","blue icy water, llc",unknown,unknown_non_applicable,,company_private,others
+439,data_scientist,75-145,"san carlos, ca",201 to 500 employees,2014.0,"san carlos, ca","farmer's business network, inc.",agriculture_&_forestry,unknown_non_applicable,3.5,company_private,others
+440,data_scientist,75-145,"boston, ma",1 to 50 employees,,"boston, ma",sonde health,health care,less than 1M,,private_practice_firm,healthcare_and_pharmaceuticals
+441,data_scientist,75-145,"ashburn, va",1 to 50 employees,,"ashburn, va",maxiom,unknown,unknown_non_applicable,5.0,company_public,others
+442,data_scientist,75-145,"lombard, il",10000+ employees,2007.0,"nashville, tn",change healthcare,information technology,unknown_non_applicable,2.7,company_public,others
+443,data_scientist,75-145,"hampton, va",1001 to 5000 employees,1977.0,"alexandria, va",dcs corp,business services,100 to 500M,4.1,company_private,others
+444,data_scientist,75-145,"san francisco, ca",unknown,2019.0,"los angeles, ca",hive (ca),telecommunications,unknown_non_applicable,2.1,company_private,telecommunications_services
+445,machine_learning_engineer,75-145,"new york, ny",501 to 1000 employees,2000.0,"new york, ny",jane street,finance,unknown_non_applicable,4.8,company_private,finance_and_banking
+446,data_scientist,56-125,"saint louis, mo",201 to 500 employees,1994.0,"saint louis, mo",envision llc,business services,25 to 50M,4.5,company_private,staffing_outsourcing
+447,data_scientist,56-125,"san francisco, ca",5001 to 10000 employees,1982.0,"san rafael, ca",autodesk,information technology,2 to 5B,4.0,company_public,computer_hardware_software
+448,data_scientist,56-125,"edison, nj",10000+ employees,,"edison, nj",hackensack meridian health,health care,5 to 10B,3.3,nonprofit_organization,healthcare_and_pharmaceuticals
+449,senior_data_scientist,56-125,"cambridge, ma",10000+ employees,1996.0,"basel, switzerland",novartis,biotech_&_pharmaceuticals,10B+,3.9,company_public,others
+450,data_scientist,56-125,"alpharetta, ga",1001 to 5000 employees,2007.0,"somerset, nj",net2source inc.,business services,100 to 500M,3.2,company_private,staffing_outsourcing
+451,data_scientist,56-125,"boulder, co",1001 to 5000 employees,2009.0,"ventura, ca",the trade desk,information technology,unknown_non_applicable,3.2,company_public,internet_telephone_providers
+452,data_scientist,56-125,"atlanta, ga",10000+ employees,1911.0,"armonk, ny",ibm,information technology,10B+,3.7,company_public,others
+453,data_scientist,56-125,"falls church, va",51 to 200 employees,2007.0,"fairfax, va",knowesis inc.,business services,25 to 50M,4.4,company_private,consulting
+454,data_scientist,56-125,"mountain view, ca",1 to 50 employees,2009.0,"san jose, ca",motek technologies,information technology,1 to 5M,3.1,company_private,others
+455,data_scientist,56-125,"kent, oh",10000+ employees,1880.0,"kent, oh",the davey tree expert company,agriculture_&_forestry,1 to 2B,3.3,self-employed,others
+456,data_scientist,56-125,"trumbull, ct",501 to 1000 employees,2006.0,"trumbull, ct",hpone,insurance,50 to 100M,3.5,company_private,insurance_agencies
+457,data_scientist,56-125,"san francisco, ca",1 to 50 employees,,"westlake village, ca",stride search,unknown,less than 1M,,company_private,others
+458,machine_learning_engineer,56-125,"pittsburgh, pa",501 to 1000 employees,1984.0,"pittsburgh, pa",software engineering institute,education,unknown_non_applicable,2.6,college_university,others
+459,data_scientist,56-125,"sterling, va",unknown,,nan,blue cloak llc,unknown,unknown_non_applicable,,unknown,others
+460,data_scientist,56-125,"new york, ny",1001 to 5000 employees,1968.0,"new york, ny",tbwa\chiat\day,business services,100 to 500M,2.7,company_public,advertising_marketing
+461,data_scientist,56-125,"alpharetta, ga",501 to 1000 employees,2009.0,"minneapolis, mn",threebridge solutions,business services,unknown_non_applicable,3.5,company_private,consulting
+462,data_scientist,56-125,"philadelphia, pa",1 to 50 employees,,"chadds ford, pa","numeric, llc",business services,5 to 10M,3.2,company_private,staffing_outsourcing
+463,data_analyst,56-125,"carson, ca",201 to 500 employees,1986.0,"carson, ca",dermalogica,manufacturing,100 to 500M,3.8,subsidiary_or_business_segment,manufacturing
+464,data_scientist,56-125,"foster city, ca",51 to 200 employees,,"edison, nj",centraprise,information technology,less than 1M,4.2,company_private,others
+465,data_scientist,56-125,"new york, ny",1 to 50 employees,2011.0,"north brunswick, nj",techprojects,information technology,unknown_non_applicable,4.8,company_private,others
+466,data_scientist,56-125,"frederick, md",51 to 200 employees,1989.0,"chicago, il",dw simpson,business services,10 to 25M,4.2,company_private,staffing_outsourcing
+467,machine_learning_engineer,30-56,"chicago, il",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+468,data_scientist,30-56,"santa clara, ca",1001 to 5000 employees,2006.0,"san ramon, ca",grid dynamics,information technology,50 to 100M,4.0,company_private,enterprise_software_network_solutions 
+469,others,30-56,"new york, ny",51 to 200 employees,2012.0,"new york, ny",7park data,business services,unknown_non_applicable,3.9,company_private,others
+470,others,30-56,"maple plain, mn",1001 to 5000 employees,1999.0,"maple plain, mn",protolabs,manufacturing,100 to 500M,3.7,company_public,manufacturing
+471,data_scientist,30-56,"colorado springs, co",501 to 1000 employees,2004.0,"los angeles, ca",linquest,aerospace_&_defense,50 to 100M,3.9,company_private,others
+472,data_engineer,30-56,"san jose, ca",10000+ employees,1970.0,"san jose, ca",western digital,information technology,10B+,3.5,company_public,computer_hardware_software
+473,data_scientist,30-56,united states,1 to 50 employees,2012.0,"stamford, ct",trexquant investment,finance,unknown_non_applicable,4.0,company_private,finance_and_banking
+474,data_scientist,30-56,"cincinnati, oh",1001 to 5000 employees,1887.0,"lincoln, ne",ameritas life insurance corp,insurance,2 to 5B,3.0,company_private,insurance_agencies
+475,data_scientist,30-56,"atlanta, ga",5001 to 10000 employees,2000.0,"atlanta, ga",fleetcor,finance,2 to 5B,3.7,company_public,others
+476,data_scientist,30-56,"washington, dc",1 to 50 employees,,"new york, ny",radiant digital,unknown,less than 1M,4.5,company_private,others
+477,data_scientist,30-56,"arlington, va",51 to 200 employees,1987.0,"arlington, va",child care aware of america,non-profit,25 to 50M,2.8,nonprofit_organization,government_public_sector
+478,data_scientist,30-56,"santa clara, ca",201 to 500 employees,,"santa clara, ca",intellipro group inc.,unknown,10 to 25M,4.1,company_private,others
+479,data_analyst,30-56,"tulsa, ok",201 to 500 employees,1996.0,"kent, wa",quest integrity,"oil, gas, energy_&_utilities",50 to 100M,2.9,company_public,energy_and_utilities
+480,data_scientist,30-56,"chantilly, va",201 to 500 employees,2002.0,"annapolis junction, md",praxis engineering,information technology,100 to 500M,4.7,subsidiary_or_business_segment,computer_hardware_software
+481,data_scientist,30-56,"southfield, mi",1001 to 5000 employees,1998.0,"saint paul, mn",usi,"construction, repair_&_maintenance",100 to 500M,3.4,company_private,others
+482,data_scientist,30-56,"san francisco, ca",1001 to 5000 employees,1995.0,"glen allen, va",apex systems,business services,2 to 5B,3.9,subsidiary_or_business_segment,staffing_outsourcing
+483,data_scientist,30-56,united states,201 to 500 employees,1985.0,"reston, va","pragmatics, inc.",information technology,100 to 500M,2.9,company_private,others
+484,others,30-56,"laurel, md",5001 to 10000 employees,1942.0,"laurel, md",johns hopkins university applied physics laboratory,aerospace_&_defense,1 to 2B,4.5,nonprofit_organization,others
+485,data_scientist,30-56,"cambridge, ma",1 to 50 employees,2010.0,"cambridge, ma",cambridge mobile telematics,information technology,unknown_non_applicable,4.9,company_private,enterprise_software_network_solutions 
+486,data_scientist,30-56,"annapolis junction, md",1 to 50 employees,2011.0,"woodbine, md",phoenix operations group,information technology,1 to 5M,5.0,company_private,others
+487,data_scientist,75-145,"redwood city, ca",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+488,data_scientist,75-145,"washington, dc",1001 to 5000 employees,2019.0,"chevy chase, md",the knot worldwide,information technology,unknown_non_applicable,3.5,company_private,internet_telephone_providers
+489,data_scientist,75-145,"san clemente, ca",1 to 50 employees,2010.0,"aliso viejo, ca",crossover health,health care,1 to 5M,3.5,company_private,healthcare_and_pharmaceuticals
+490,data_scientist,75-145,"new york, ny",1 to 50 employees,,"plainsboro, nj",lorven technologies inc,accounting_&_legal,less than 1M,4.0,company_private,others
+491,data_analyst,75-145,"falls church, va",51 to 200 employees,2012.0,"vienna, va",nolij consulting,business services,1 to 5M,3.9,company_public,consulting
+492,data_scientist,75-145,"newton, ma",201 to 500 employees,1990.0,"denver, co",dice.com,business services,100 to 500M,3.4,subsidiary_or_business_segment,staffing_outsourcing
+493,data_scientist,75-145,"san francisco, ca",10000+ employees,1969.0,"san francisco, ca",gap inc.,retail,10B+,3.5,company_public,others
+494,data_scientist,75-145,"washington, dc",1 to 50 employees,,"fairmont, wv","tygart technology, inc",unknown,1 to 5M,4.7,company_private,others
+495,data_scientist,75-145,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+496,data_scientist,75-145,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+497,data_scientist,75-145,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+498,data_scientist,75-145,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+499,data_scientist,75-145,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+500,data_scientist,75-145,"san francisco, ca",unknown,,nan,hatch data inc,unknown,unknown_non_applicable,,unknown,others
+501,data_scientist,75-145,"the woodlands, tx",1 to 50 employees,1988.0,"houston, tx",murray resources,business services,10 to 25M,4.6,company_private,staffing_outsourcing
+502,data_scientist,75-145,"seattle, wa",51 to 200 employees,1999.0,"jersey city, nj",new york technology partners,information technology,10 to 25M,4.0,company_private,computer_hardware_software
+503,data_scientist,75-145,"chicago, il",1 to 50 employees,,"cherry hill, nj",two95 international inc.,business services,1 to 5M,4.0,company_private,staffing_outsourcing
+504,data_scientist,75-145,"chantilly, va",1 to 50 employees,,nan,sophinea,unknown,unknown_non_applicable,,unknown,others
+505,data_scientist,75-145,"chicago, il",51 to 200 employees,1994.0,"itasca, il",crs group,business services,10 to 25M,4.7,company_private,staffing_outsourcing
+506,data_scientist,75-145,"san francisco, ca",51 to 200 employees,1998.0,"san francisco, ca",blackstone talent group,business services,25 to 50M,3.5,company_private,consulting
+507,data_scientist,75-145,"baltimore, md",1 to 50 employees,2011.0,"woodbine, md",phoenix operations group,information technology,1 to 5M,5.0,company_private,others
+508,data_scientist,210-335,"pleasanton, ca",10000+ employees,1896.0,"basel, switzerland",roche,biotech_&_pharmaceuticals,10B+,4.1,company_public,others
+509,data_scientist,210-335,"wilmington, de",10000+ employees,1913.0,"cambridge, united kingdom",astrazeneca,biotech_&_pharmaceuticals,10B+,4.0,company_public,others
+510,data_scientist,210-335,united states,201 to 500 employees,2002.0,"los angeles, ca",creative circle,business services,unknown_non_applicable,3.6,company_public,staffing_outsourcing
+511,data_scientist,210-335,"new york, ny",1 to 50 employees,1987.0,"coconut creek, fl",blue horizon tek solutions,business services,unknown_non_applicable,5.0,company_private,staffing_outsourcing
+512,senior_data_scientist,210-335,"herndon, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+513,data_scientist,210-335,"seattle, wa",unknown,,"lombard, il",sharpedge solutions inc,media,less than 1M,4.7,company_private,others
+514,data_scientist,210-335,"herndon, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+515,data_scientist,210-335,"fort sam houston, tx",501 to 1000 employees,,"honolulu, hi",alaka`ina foundation family of companies,unknown,unknown_non_applicable,3.6,government,others
+516,others,210-335,"oklahoma city, ok",1001 to 5000 employees,1947.0,"san antonio, tx",southwest research institute,business services,500M to 1B,3.9,nonprofit_organization,others
+517,data_scientist,210-335,"lexington park, md",51 to 200 employees,2010.0,"chantilly, va",hexagon us federal,aerospace_&_defense,unknown_non_applicable,2.7,company_public,others
+518,others,210-335,"boston, ma",201 to 500 employees,2012.0,"boston, ma",klaviyo,information technology,unknown_non_applicable,4.8,company_private,computer_hardware_software
+519,others,210-335,"cambridge, ma",unknown,,nan,monte rosa therapeutics,unknown,unknown_non_applicable,,unknown,others
+520,data_scientist,210-335,"washington, dc",51 to 200 employees,,"columbus, oh",comtech global inc,consumer services,5 to 10M,4.0,company_private,healthcare_and_pharmaceuticals
+521,data_scientist,210-335,"washington, dc",51 to 200 employees,2010.0,"arlington, va","aveshka, inc.",information technology,10 to 25M,3.8,company_public,others
+522,data_science_analytics_leadership,210-335,"raleigh, nc",501 to 1000 employees,2012.0,"pleasanton, ca",10x genomics,biotech_&_pharmaceuticals,unknown_non_applicable,4.2,company_public,others
+523,others,210-335,"dayton, oh",1001 to 5000 employees,1947.0,"san antonio, tx",southwest research institute,business services,500M to 1B,3.9,nonprofit_organization,others
+524,data_scientist,210-335,"new york, ny",unknown,,"new york, ny",compuforce,unknown,unknown_non_applicable,,company_private,others
+525,data_scientist,210-335,"washington, dc",1 to 50 employees,1980.0,"new york, 061",smith hanley associates,business services,unknown_non_applicable,4.5,company_private,staffing_outsourcing
+526,machine_learning_engineer,210-335,"seattle, wa",201 to 500 employees,2003.0,"seattle, wa",allen institute,business services,100 to 500M,3.5,nonprofit_organization,others
+527,data_scientist,210-335,"new york, ny",1001 to 5000 employees,1976.0,"carle place, ny",1-800-flowers,business services,1 to 2B,2.7,company_public,others
+528,data_scientist,210-335,"washington, dc",51 to 200 employees,2012.0,"alexandria, va",aptive,business services,25 to 50M,3.5,company_private,consulting
+529,data_scientist,56-125,"longmont, co",1 to 50 employees,2016.0,"chicago, il",the mom project,business services,unknown_non_applicable,4.9,company_private,staffing_outsourcing
+530,data_scientist,56-125,"washington, dc",51 to 200 employees,2001.0,"rockville, md",powertek,information technology,25 to 50M,3.6,company_private,others
+531,data_scientist,56-125,"washington, dc",1 to 50 employees,,"germantown, md",jcd staffing,unknown,unknown_non_applicable,5.0,company_private,others
+532,data_scientist,56-125,"sunnyvale, ca",1 to 50 employees,2001.0,"pleasanton, ca",bayside solutions,business services,1 to 5M,3.1,company_private,staffing_outsourcing
+533,senior_data_scientist,56-125,"san francisco, ca",501 to 1000 employees,2009.0,"san francisco, ca",thumbtack,information technology,unknown_non_applicable,3.9,company_private,internet_telephone_providers
+534,data_scientist,56-125,"patuxent, anne arundel, md",51 to 200 employees,1986.0,"orlando, fl","milvets systems technology, inc.",information technology,25 to 50M,3.4,company_private,others
+535,machine_learning_engineer,56-125,"santa clara, ca",10000+ employees,1976.0,"cupertino, ca",apple,information technology,10B+,4.1,company_public,computer_hardware_software
+536,data_scientist,56-125,"fairfax, va",10000+ employees,1966.0,"tampa, fl",kforce,business services,1 to 2B,4.1,company_public,staffing_outsourcing
+537,data_scientist,56-125,"denver, co",201 to 500 employees,2011.0,"denver, co",evolve vacation rental,travel_&_tourism,unknown_non_applicable,3.5,company_private,others
+538,data_analyst,56-125,"fort belvoir, va",501 to 1000 employees,2010.0,"reston, va",the buffalo group,information technology,100 to 500M,4.3,company_private,others
+539,others,56-125,"chicago, il",201 to 500 employees,2012.0,"chicago, il",opploans,finance,100 to 500M,4.4,company_private,others
+540,data_scientist,56-125,"thousand oaks, ca",1001 to 5000 employees,1999.0,"folsom, ca",agreeya solutions,information technology,50 to 100M,3.8,company_private,others
+541,data_scientist,56-125,"mclean, va",5001 to 10000 employees,1908.0,"raleigh, nc",carolina power & light co,"oil, gas, energy_&_utilities",unknown_non_applicable,3.7,subsidiary_or_business_segment,energy_and_utilities
+542,others,56-125,"san antonio, tx",1001 to 5000 employees,1947.0,"san antonio, tx",southwest research institute,business services,500M to 1B,3.9,nonprofit_organization,others
+543,data_scientist,56-125,"silver spring, md",501 to 1000 employees,2006.0,"reston, va",brillient,information technology,25 to 50M,3.9,company_private,others
+544,others,56-125,"boston, ma",5001 to 10000 employees,1851.0,"springfield, ma",massmutual,insurance,10B+,3.7,company_private,insurance_agencies
+545,data_scientist,56-125,"washington, dc",501 to 1000 employees,,"reston, va",xator corporation,information technology,25 to 50M,2.9,contract,others
+546,data_scientist,56-125,"new york, ny",51 to 200 employees,2012.0,"totowa, nj",han it staffing inc.,information technology,unknown_non_applicable,4.6,company_private,others
+547,data_scientist,56-125,"mclean, va",201 to 500 employees,1997.0,"cedar rapids, ia",infinitive inc,information technology,10 to 25M,3.4,company_private,enterprise_software_network_solutions 
+548,data_engineer,56-125,"hartford, ct",10000+ employees,1853.0,"hartford, ct",travelers,insurance,10B+,4.0,company_public,insurance_agencies
+549,data_scientist,120-200,"emeryville, ca",201 to 500 employees,2003.0,"emeryville, ca",amyris,biotech_&_pharmaceuticals,100 to 500M,3.3,company_public,others
+550,data_scientist,120-200,"austin, tx",51 to 200 employees,1999.0,"austin, tx",lightspeed systems,information technology,25 to 50M,4.3,company_private,computer_hardware_software
+551,senior_data_scientist,120-200,"san francisco, ca",501 to 1000 employees,2009.0,"san francisco, ca",thumbtack,information technology,unknown_non_applicable,3.9,company_private,internet_telephone_providers
+552,senior_data_scientist,120-200,"san francisco, ca",1001 to 5000 employees,2011.0,"san francisco, ca",twitch,information technology,unknown_non_applicable,3.6,subsidiary_or_business_segment,internet_telephone_providers
+553,machine_learning_engineer,120-200,"portland, or",1001 to 5000 employees,2008.0,"san francisco, ca",new relic,information technology,100 to 500M,4.7,company_public,computer_hardware_software
+554,others,120-200,"cambridge, ma",5001 to 10000 employees,1978.0,"cambridge, ma",biogen,biotech_&_pharmaceuticals,10B+,3.6,company_public,others
+555,data_scientist,120-200,"san francisco, ca",unknown,,nan,hireai,unknown,unknown_non_applicable,,unknown,others
+556,machine_learning_engineer,120-200,"redwood city, ca",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+557,data_scientist,120-200,"san diego, ca",501 to 1000 employees,1972.0,"san diego, ca",icw group,insurance,500M to 1B,3.3,company_private,insurance_agencies
+558,data_analyst,120-200,"new york, ny",51 to 200 employees,1996.0,"rome, ny",nystec,business services,25 to 50M,3.8,nonprofit_organization,consulting
+559,data_scientist,120-200,"chantilly, va",501 to 1000 employees,2004.0,"mclean, va",e3 federal solutions,business services,unknown_non_applicable,4.5,company_private,consulting
+560,data_engineer,120-200,"falls church, va",51 to 200 employees,2005.0,"falls church, va",kingfisher systems,government,25 to 50M,4.5,company_private,government_public_sector
+561,data_scientist,120-200,"chantilly, va",1001 to 5000 employees,2017.0,"herndon, va",peraton,aerospace_&_defense,1 to 2B,3.4,company_private,others
+562,senior_data_scientist,120-200,"chicago, il",1001 to 5000 employees,1974.0,"milan, il",group o,business services,500M to 1B,3.1,company_private,staffing_outsourcing
+563,data_science_analytics_leadership,120-200,"san francisco, ca",5001 to 10000 employees,1982.0,"san rafael, ca",autodesk,information technology,2 to 5B,4.0,company_public,computer_hardware_software
+564,others,120-200,"chicago, il",501 to 1000 employees,2015.0,"chicago, il",tempus labs,biotech_&_pharmaceuticals,unknown_non_applicable,3.3,company_private,others
+565,data_engineer,120-200,"raleigh, nc",1001 to 5000 employees,1976.0,"raleigh, nc",captiveaire,manufacturing,100 to 500M,4.1,company_private,manufacturing
+566,others,120-200,"orlando, fl",51 to 200 employees,1996.0,"orlando, fl",lsq,finance,100 to 500M,4.2,company_private,finance_and_banking
+567,machine_learning_engineer,120-200,"new york, ny",1 to 50 employees,,"new york, ny",temboo,information technology,unknown_non_applicable,3.9,company_private,others
+568,data_scientist,120-200,"philadelphia, pa",unknown,,"marbella, spain",kibo,unknown,unknown_non_applicable,,company_public,others
+569,data_scientist,120-200,"mclean, va",5001 to 10000 employees,1958.0,"bedford, ma",mitre,government,1 to 2B,3.3,nonprofit_organization,government_public_sector
+570,data_scientist,120-200,united states,10000+ employees,1911.0,"mc lean, va",mars,manufacturing,10B+,3.9,company_private,manufacturing
+571,data_scientist,120-200,"santa cruz, ca",51 to 200 employees,2003.0,"santa cruz, ca","fullpower technologies, inc.",information technology,10 to 25M,4.5,company_private,computer_hardware_software
+572,machine_learning_engineer,120-200,"simi valley, ca",501 to 1000 employees,1971.0,"simi valley, ca",aerovironment,aerospace_&_defense,100 to 500M,4.2,company_public,others
+573,data_scientist,120-200,"herndon, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+574,others,120-200,"huntsville, al",1001 to 5000 employees,1974.0,"huntsville, al",dynetics,aerospace_&_defense,100 to 500M,4.0,company_private,others
+575,others,120-200,"woburn, ma",201 to 500 employees,2010.0,"woburn, ma",systems & technology research,aerospace_&_defense,100 to 500M,4.5,company_private,others
+576,senior_data_scientist,120-200,"herndon, va",501 to 1000 employees,2012.0,"mc lean, va",novetta,information technology,100 to 500M,4.5,company_private,enterprise_software_network_solutions 
+577,others,120-200,"austin, tx",501 to 1000 employees,,"austin, tx",applied research laboratories,education,unknown_non_applicable,3.8,college_university,others
+578,data_engineer,120-200,"merrifield, va",10000+ employees,1933.0,"vienna, va",navy federal credit union,finance,unknown_non_applicable,3.9,other_organization,finance_and_banking
+579,others,120-200,"new bedford, ma",51 to 200 employees,,"bedford, ma",conagen,biotech_&_pharmaceuticals,unknown_non_applicable,2.0,company_private,others
+580,data_science_analytics_leadership,120-200,"south san francisco, ca",51 to 200 employees,2013.0,"south san francisco, ca",alector,biotech_&_pharmaceuticals,unknown_non_applicable,4.8,company_public,others
+581,data_analyst,120-200,"merrifield, va",10000+ employees,1933.0,"vienna, va",navy federal credit union,finance,unknown_non_applicable,3.9,other_organization,finance_and_banking
+582,others,120-200,"winston-salem, nc",5001 to 10000 employees,1875.0,"winston-salem, nc",reynolds american,manufacturing,10B+,3.3,company_private,manufacturing
+583,data_scientist,120-200,"bedford, ma",5001 to 10000 employees,1958.0,"bedford, ma",mitre,government,1 to 2B,3.3,nonprofit_organization,government_public_sector
+584,machine_learning_engineer,120-200,"raleigh, nc",51 to 200 employees,2016.0,"indianapolis, in",lifeomic,information technology,unknown_non_applicable,5.0,company_private,enterprise_software_network_solutions 
+585,others,120-200,"new bedford, ma",51 to 200 employees,,"bedford, ma","homology medicines, inc.",unknown,unknown_non_applicable,4.4,company_public,others
+586,data_engineer,120-200,"chicago, il",51 to 200 employees,1992.0,"chicago, il",spectrum communications and consulting,business services,10 to 25M,3.4,company_private,advertising_marketing
+587,others,120-200,"rancho cucamonga, ca",1001 to 5000 employees,1996.0,"rancho cucamonga, ca",inland empire health plan,health care,1 to 2B,3.3,company_public,healthcare_and_pharmaceuticals
+588,senior_data_scientist,120-200,"new york, ny",51 to 200 employees,1998.0,"new york, ny",affinity solutions,business services,unknown_non_applicable,2.9,company_private,advertising_marketing
+589,others,120-200,"livermore, ca",10000+ employees,1949.0,"albuquerque, nm",sandia national laboratories,government,2 to 5B,3.8,government,government_public_sector
+590,data_engineer,120-200,"mclean, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+591,data_scientist,75-145,"gaithersburg, md",10000+ employees,1913.0,"cambridge, united kingdom",astrazeneca,biotech_&_pharmaceuticals,10B+,4.0,company_public,others
+592,senior_data_scientist,75-145,"san francisco, ca",5001 to 10000 employees,1982.0,"san rafael, ca",autodesk,information technology,2 to 5B,4.0,company_public,computer_hardware_software
+593,data_scientist,75-145,"southfield, mi",1001 to 5000 employees,1998.0,"saint paul, mn",usi,"construction, repair_&_maintenance",100 to 500M,3.4,company_private,others
+594,data_scientist,75-145,"collegeville, pa",10000+ employees,1830.0,"brentford, united kingdom",gsk,biotech_&_pharmaceuticals,10B+,3.9,company_public,others
+595,data_scientist,75-145,"washington, dc",unknown,1947.0,"langley, va",cia,government,unknown_non_applicable,3.8,government,government_public_sector
+596,data_scientist,75-145,"chicago, il",201 to 500 employees,2008.0,"chicago, il",maven wave partners,business services,50 to 100M,4.5,company_private,consulting
+597,data_scientist,75-145,"minneapolis, mn",51 to 200 employees,2009.0,"minneapolis, mn",ovative group,business services,10 to 25M,4.3,company_private,advertising_marketing
+598,data_scientist,75-145,"gahanna, oh",1 to 50 employees,,"new york, ny",kognetics,unknown,unknown_non_applicable,3.6,company_private,others
+599,data_scientist,75-145,"nashville, tn",10000+ employees,2005.0,"nashville, tn",envision healthcare,health care,unknown_non_applicable,2.9,company_private,healthcare_and_pharmaceuticals
+600,data_scientist,75-145,united states,201 to 500 employees,1985.0,"reston, va","pragmatics, inc.",information technology,100 to 500M,2.9,company_private,others
+601,data_scientist,75-145,california,51 to 200 employees,2004.0,"los angeles, ca",consumertrack,information technology,25 to 50M,3.2,company_private,internet_telephone_providers
+602,others,75-145,"laurel, md",5001 to 10000 employees,1942.0,"laurel, md",johns hopkins university applied physics laboratory,aerospace_&_defense,1 to 2B,4.5,nonprofit_organization,others
+603,data_scientist,75-145,"annapolis junction, md",1 to 50 employees,2011.0,"woodbine, md",phoenix operations group,information technology,1 to 5M,5.0,company_private,others
+604,data_scientist,75-145,"san clemente, ca",1 to 50 employees,2010.0,"aliso viejo, ca",crossover health,health care,1 to 5M,3.5,company_private,healthcare_and_pharmaceuticals
+605,data_scientist,75-145,"new york, ny",1 to 50 employees,,"plainsboro, nj",lorven technologies inc,accounting_&_legal,less than 1M,4.0,company_private,others
+606,data_scientist,75-145,"washington, dc",51 to 200 employees,1997.0,"reston, va",meridian knowledge solutions,information technology,100 to 500M,4.4,subsidiary_or_business_segment,enterprise_software_network_solutions 
+607,data_scientist,75-145,"atlanta, ga",10000+ employees,1999.0,"aliso viejo, ca",ust global,information technology,1 to 2B,4.2,company_private,others
+608,data_scientist,75-145,"plano, tx",1 to 50 employees,,"plano, tx",img systems,business services,1 to 5M,3.2,company_private,consulting
+609,data_scientist,75-145,"fairfax, va",51 to 200 employees,1985.0,"fairfax, va",trident systems inc,aerospace_&_defense,25 to 50M,3.4,company_private,others
+610,data_scientist,75-145,"washington, dc",1 to 50 employees,,"fairmont, wv","tygart technology, inc",unknown,1 to 5M,4.7,company_private,others
+611,data_scientist,75-145,utah,201 to 500 employees,1997.0,"south jordan, ut",merrick bank,finance,unknown_non_applicable,3.6,company_private,finance_and_banking
+612,senior_data_scientist,75-145,"alexandria, va",5001 to 10000 employees,1968.0,"herndon, va",mantech,business services,1 to 2B,4.2,company_public,others
+613,data_scientist,75-145,"omaha, ne",unknown,,nan,"grainbridge, llc",unknown,unknown_non_applicable,,unknown,others
+614,data_scientist,75-145,"wellesley, ma",10000+ employees,1853.0,"bethesda, md",first health group,insurance,10B+,3.2,company_private,insurance_agencies
+615,data_scientist,75-145,"washington, va",unknown,,"mclean, va",sprezzatura management consulting,unknown,unknown_non_applicable,,company_private,others
+616,data_scientist,75-145,"fort worth, tx",1001 to 5000 employees,1983.0,"albertville, al","progress rail, a caterpillar company",transportation_&_logistics,2 to 5B,2.8,subsidiary_or_business_segment,transportation_logistics
+617,data_scientist,75-145,"atlanta, ga",10000+ employees,1999.0,"aliso viejo, ca",ust global,information technology,1 to 2B,4.2,company_private,others
+618,data_scientist,75-145,"alexandria, va",51 to 200 employees,2009.0,"fairfax, va",axiologic solutions,aerospace_&_defense,unknown_non_applicable,4.5,company_private,others
+619,data_scientist,75-145,"bellevue, wa",51 to 200 employees,2006.0,"bellevue, wa",indigo slate,business services,10 to 25M,3.0,company_private,consulting
+620,data_scientist,75-145,united states,5001 to 10000 employees,1951.0,"san diego, ca",cubic,aerospace_&_defense,1 to 2B,3.3,company_public,others
+621,data_scientist,75-145,"thousand oaks, ca",1 to 50 employees,,"westlake village, ca",advanced bio-logic solutions corp,unknown,less than 1M,4.0,company_private,others
+622,data_engineer,75-145,"orange, ca",501 to 1000 employees,2013.0,"orange, ca",alignment healthcare,health care,unknown_non_applicable,3.5,company_private,healthcare_and_pharmaceuticals
+623,data_scientist,75-145,"baltimore, md",1 to 50 employees,1998.0,"new york, ny",wgsn,business services,50 to 100M,3.5,company_private,consulting
+624,data_scientist,75-145,"herndon, va",51 to 200 employees,1990.0,"littleton, co","isys technologies, inc.",information technology,10 to 25M,3.6,company_private,computer_hardware_software
+625,data_scientist,75-145,"alexandria, va",51 to 200 employees,2012.0,"alexandria, va",transvoyant,information technology,unknown_non_applicable,3.0,company_private,enterprise_software_network_solutions 
+626,data_scientist,75-145,"bridgeport, wv",1001 to 5000 employees,1996.0,"reston, va",noblis,business services,100 to 500M,4.0,nonprofit_organization,consulting
+627,data_scientist,75-145,"the woodlands, tx",1 to 50 employees,1988.0,"houston, tx",murray resources,business services,10 to 25M,4.6,company_private,staffing_outsourcing
+628,data_scientist,75-145,"oakville, ca",1001 to 5000 employees,2000.0,"oakville, canada",geotab,information technology,100 to 500M,4.3,company_private,computer_hardware_software
+629,data_scientist,75-145,"chicago, il",51 to 200 employees,1994.0,"itasca, il",crs group,business services,10 to 25M,4.7,company_private,staffing_outsourcing
+630,data_scientist,75-145,"arlington, va",201 to 500 employees,2004.0,"vienna, va",eglobaltech,information technology,unknown_non_applicable,3.7,company_private,others
+631,data_scientist,90-170,"new york, ny",10000+ employees,1911.0,"mc lean, va",mars,manufacturing,10B+,3.9,company_private,manufacturing
+632,data_scientist,90-170,new jersey,1 to 50 employees,2013.0,"holmdel, nj",avlino,information technology,less than 1M,4.9,company_private,enterprise_software_network_solutions 
+633,data_scientist,90-170,"seattle, wa",51 to 200 employees,,"fremont, ca","central business solutions, inc",business services,5 to 10M,3.0,company_private,consulting
+634,data_scientist,90-170,"naperville, il",5001 to 10000 employees,1954.0,"naperville, il",kehe distributors,business services,unknown_non_applicable,2.5,company_private,others
+635,data_scientist,90-170,"san francisco, ca",51 to 200 employees,1998.0,"san francisco, ca",blackstone talent group,business services,25 to 50M,3.5,company_private,consulting
+636,data_scientist,90-170,"baltimore, md",1 to 50 employees,2011.0,"woodbine, md",phoenix operations group,information technology,1 to 5M,5.0,company_private,others
+637,data_scientist,90-170,"chantilly, va",1 to 50 employees,,nan,sophinea,unknown,unknown_non_applicable,,unknown,others
+638,senior_data_scientist,90-170,"herndon, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+639,data_scientist,90-170,"bellevue, wa",51 to 200 employees,1999.0,"san bruno, ca",moxie software,information technology,unknown_non_applicable,3.0,company_private,enterprise_software_network_solutions 
+640,data_scientist,90-170,"new york, ny",1 to 50 employees,1987.0,"coconut creek, fl",blue horizon tek solutions,business services,unknown_non_applicable,5.0,company_private,staffing_outsourcing
+641,data_scientist,90-170,"chicago, il",51 to 200 employees,,"naperville, il",unicom technologies inc,information technology,unknown_non_applicable,4.7,company_private,others
+642,data_engineer,90-170,"kansas city, mo",201 to 500 employees,1992.0,"kansas city, mo",americo life,insurance,100 to 500M,3.3,company_private,insurance_agencies
+643,data_scientist,90-170,"houston, tx",1001 to 5000 employees,1974.0,"houston, tx",tokio marine hcc,insurance,unknown_non_applicable,3.3,company_private,insurance_agencies
+644,data_scientist,90-170,"chantilly, va",10000+ employees,1962.0,"arlington, va",caci international,aerospace_&_defense,2 to 5B,3.5,company_public,others
+645,machine_learning_engineer,90-170,"santa clara, ca",10000+ employees,1976.0,"cupertino, ca",apple,information technology,10B+,4.1,company_public,computer_hardware_software
+646,data_scientist,90-170,"herndon, va",5001 to 10000 employees,,"westminster, co",maxar technologies,aerospace_&_defense,2 to 5B,3.5,company_public,others
+647,others,90-170,"oklahoma city, ok",1001 to 5000 employees,1947.0,"san antonio, tx",southwest research institute,business services,500M to 1B,3.9,nonprofit_organization,others
+648,data_scientist,90-170,"thousand oaks, ca",51 to 200 employees,2008.0,"danville, ca",compass consulting group,business services,unknown_non_applicable,4.7,company_private,consulting
+649,others,90-170,"boston, ma",201 to 500 employees,2012.0,"boston, ma",klaviyo,information technology,unknown_non_applicable,4.8,company_private,computer_hardware_software
+650,others,90-170,"cambridge, ma",unknown,,nan,monte rosa therapeutics,unknown,unknown_non_applicable,,unknown,others
+651,data_scientist,90-170,"gaithersburg, md",10000+ employees,1913.0,"cambridge, united kingdom",astrazeneca,biotech_&_pharmaceuticals,10B+,4.0,company_public,others
+652,senior_data_scientist,90-170,"denver, co",51 to 200 employees,2009.0,"denver, co",gutcheck,business services,10 to 25M,3.8,company_private,advertising_marketing
+653,data_scientist,90-170,"cupertino, ca",5001 to 10000 employees,1996.0,"sunnyvale, ca",juniper networks,telecommunications,2 to 5B,3.8,company_public,telecommunications_services
+654,data_scientist,90-170,"lexington park, md",51 to 200 employees,2010.0,"chantilly, va",hexagon us federal,aerospace_&_defense,unknown_non_applicable,2.7,company_public,others
+655,data_scientist,90-170,"washington, dc",51 to 200 employees,,"columbus, oh",comtech global inc,consumer services,5 to 10M,4.0,company_private,healthcare_and_pharmaceuticals
+656,data_scientist,90-170,"fort belvoir, va",unknown,,nan,berico technologies,unknown,unknown_non_applicable,,unknown,others
+657,data_scientist,90-170,"naperville, il",unknown,,nan,kehe food distributors,unknown,unknown_non_applicable,,unknown,others
+658,data_scientist,90-170,"washington, dc",51 to 200 employees,2010.0,"arlington, va","aveshka, inc.",information technology,10 to 25M,3.8,company_public,others
+659,data_scientist,90-170,"adelphi, md",10000+ employees,2018.0,"chantilly, va",perspecta,aerospace_&_defense,unknown_non_applicable,3.2,company_public,others
+660,data_scientist,90-170,"redmond, wa",unknown,,nan,pactera edge,unknown,unknown_non_applicable,,unknown,others
+661,data_scientist,90-170,"west chester, pa",10000+ employees,,"west chester, pa",qurate retail group,retail,unknown_non_applicable,3.6,company_public,others
+662,data_scientist,90-170,"edison, nj",51 to 200 employees,,"wilmington, ma","solutionit, inc.",unknown,unknown_non_applicable,4.4,company_private,others
+663,data_scientist,90-170,"durham, nc",501 to 1000 employees,2004.0,"utica, mi",a-line staffing solutions,business services,unknown_non_applicable,4.1,company_private,staffing_outsourcing
+664,data_scientist,90-170,"quantico, va",1 to 50 employees,,"baltimore, md",clear ridge defense,unknown,unknown_non_applicable,,company_private,others
+665,data_scientist,90-170,"vienna, va",201 to 500 employees,2005.0,"vienna, va","criterion systems, inc.",information technology,50 to 100M,3.8,company_private,others
+666,data_scientist,90-170,"boston, ma",1001 to 5000 employees,2010.0,"cambridge, ma",foundation medicine,biotech_&_pharmaceuticals,100 to 500M,4.0,company_public,others
+667,data_scientist,90-170,"fort lee, nj",1001 to 5000 employees,1989.0,"fort lee, nj",tranzact,business services,unknown_non_applicable,3.6,company_private,advertising_marketing
+668,data_scientist,90-170,"san francisco, ca",unknown,,nan,jkgt,unknown,unknown_non_applicable,,unknown,others
+669,data_scientist,90-170,"irwindale, ca",unknown,,nan,accesshope,unknown,unknown_non_applicable,,unknown,others
+670,data_scientist,90-170,"san francisco, ca",1 to 50 employees,,"santa clara, ca",chateck incorporated,business services,1 to 5M,5.0,company_private,advertising_marketing
+671,data_scientist,90-170,"new york, ny",1001 to 5000 employees,1976.0,"carle place, ny",1-800-flowers,business services,1 to 2B,2.7,company_public,others
