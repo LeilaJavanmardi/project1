@@ -7,7 +7,7 @@ This Jupyter Notebook project aims to clean, explore, and analyze a dataset cont
 
 ## Data Source
 
-The dataset used in this project is sourced from Glassdoor, a leading platform for job seekers and employers. It includes information about data science job postings, such as industry, job title, salary estimates, company size, revenue, location, and more. You can access the dataset [here](link-to-dataset).
+The dataset used in this project is sourced from Glassdoor, a leading platform for job seekers and employers. It includes information about data science job postings, such as industry, job title, salary estimates, company size, revenue, location, and more. You can access the original dataset [here](https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv).
 
 ## Hypothesis
 
