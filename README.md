@@ -37,10 +37,5 @@ This project aims to answer the following questions through data analysis:
 - Major cities like San Francisco, CA, New York, NY, and Boston, MA, emerge as prominent centers for open positions, with high concentrations of companies and headquarters.
 - While certain locations have a higher concentration of companies, variations in the distribution of headquarters indicate diverse organizational structures and strategic decisions.
 
-## Next Steps
-
-- Explore additional datasets to further analyze the job market dynamics, such as trends over time, industry-specific insights, or regional variations.
-- Conduct more in-depth analysis on specific aspects, such as the relationship between job satisfaction and salary, the impact of education level on job opportunities, or the demand for specific skills.
-- Build predictive models based on the findings to forecast future job market trends and provide actionable insights for job seekers and companies.
 
 
